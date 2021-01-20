@@ -1,5 +1,5 @@
 ---
-title: "Cyberpunk Main"
+title: "Cyberpunk"
 permalink: /cyberpunk
 ---
 Do you want to know about [roles?](/cyberpunk/roles)
