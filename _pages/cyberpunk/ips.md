@@ -1,6 +1,7 @@
 ---
 permalink: /cyberpunk/ips
-Title: "Cyberpunk - Improvement Points"
+layout: page
+title: "Cyberpunk - Improvement Points"
 ---
 
 Improvement Points are a system by which, through playing the game, players gain the ability to increase their skills. Three types exist, gIP, sIP, and cIP.
