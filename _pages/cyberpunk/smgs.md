@@ -1,6 +1,6 @@
 ---
-permalink: /cyberpunk/smgs
 title: "Cyberpunk - SMGs"
+permalink: /cyberpunk/smgs/
 ---
 
 ### Do remember that SMGs are considered illegal under the federal weapons statute!

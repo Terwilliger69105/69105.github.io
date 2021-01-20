@@ -1,6 +1,6 @@
 ---
-permalink: /cyberpunk/shotguns
 title: "Cyberpunk - Shotguns"
+permalink: /cyberpunk/shotguns/
 ---
 | Name | Type | WA | Availability | Concealability | Damage | Cartridge | Capacity | Rate of Fire | Range | Other |
 |--------------------------|---------------|-----|-----------|-----------|--------------|-------------|-------|----------------|------|-----------|

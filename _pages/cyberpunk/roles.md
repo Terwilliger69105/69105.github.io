@@ -1,6 +1,6 @@
 ----
 title: "Cyberpunk - Roles"
-permalink: /cyberpunk/roles
+permalink: /cyberpunk/roles/
 ----
 ## There are none.
 

@@ -1,5 +1,5 @@
 ---
-permalink: /cyberpunk/handguns
+permalink: /cyberpunk/handguns/
 title: "Cyberpunk - Handguns"
 ---
 | Name | Type | WA | Availability | Concealability | Damage | Cartridge | Capacity | Rate of Fire | Range | Other

@@ -1,5 +1,5 @@
 ---
-permalink: /cyberpunk/ips
+permalink: /cyberpunk/ips/
 layout: page
 title: "Cyberpunk - Improvement Points"
 ---

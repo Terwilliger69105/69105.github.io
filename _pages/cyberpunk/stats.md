@@ -1,6 +1,6 @@
 ----
 title: "Cyberpunk - Stats"
-permalink: /cyberpunk/stats
+permalink: /cyberpunk/stats/
 ----
 You have nine main statistics, little values that say how good you are at broad tasks, which you define during character creation. These include:
 

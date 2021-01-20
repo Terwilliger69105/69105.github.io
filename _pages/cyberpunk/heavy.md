@@ -1,6 +1,6 @@
 ---
-permalink: /cyberpunk/heavy
 title: "Cyberpunk - Heavy Weapons"
+permalink: /cyberpunk/heavy/
 ---
 | Name                                         | Type  | WA    | Availability  | Concealability | Damage       | Cartridge       | Capacity       | Rate of Fire | Range      | Other                                                       |
 |----------------------------------------------|-------|-------|---------------|----------------|--------------|-----------------|----------------|--------------|------------|-------------------------------------------------------------|

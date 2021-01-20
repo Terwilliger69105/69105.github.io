@@ -1,5 +1,5 @@
 ---
-permalink: /cyberpunk/rifles
+permalink: /cyberpunk/rifles/
 title: "Cyberpunk - Rifles"
 ---
 | Name | Type | WA | Availability | Concealability | Damage | Cartridge | Capacity | Rate of Fire | Range | Other
