@@ -85,9 +85,11 @@ Unless you've talked with the GM, this number will start out at 0. Don't worry a
 
 ## Character Creation - Equipment
 
-*Use the core rulebook until at least the most-used tables, Clothing/Weapons/Armor/Cybernetics, are completed!*
+[Clothing and Clothing Modifications](https://docs.google.com/spreadsheets/d/14wzy7uvyw3JEyEWlgATxWlp-W9sFzTJPMINzpEUrK7U/edit?usp=sharing)
 
-[Clothing](https://docs.google.com/spreadsheets/d/14wzy7uvyw3JEyEWlgATxWlp-W9sFzTJPMINzpEUrK7U/edit?usp=sharing)
+[Soft and Hard Armor](https://docs.google.com/spreadsheets/d/1aLGNAwCEeClvVvyd_mFHcppxvjpiVEETQvHlsbPyzAo/edit?usp=sharing)
+
+*Use the core rulebook until at least the most-used tables, Clothing/Weapons/Armor/Cybernetics, are completed!*
 
 ----
 
