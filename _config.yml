@@ -5,6 +5,6 @@ header_pages:
   - cyberpunk.md
   - mothership.md
 
-footer: ['There are 69,105 leaves here.'](https://www.pcjs.org/software/pcx86/game/infocom/zork1/)
+footer: 'There are 69,105 leaves here.'
 
 style: hacker # light dark (default) or light
