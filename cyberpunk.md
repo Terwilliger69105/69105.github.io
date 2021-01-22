@@ -87,5 +87,7 @@ Unless you've talked with the GM, this number will start out at 0. Don't worry a
 
 *Use the core rulebook until at least the most-used tables, Clothing/Weapons/Armor/Cybernetics, are completed!*
 
+To view available clothing, and the modifications which can be placed on it, [view this Sheet!](https://docs.google.com/spreadsheets/d/14wzy7uvyw3JEyEWlgATxWlp-W9sFzTJPMINzpEUrK7U/edit?usp=sharing)
+
 ----
 
