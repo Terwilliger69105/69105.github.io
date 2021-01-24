@@ -11,9 +11,9 @@ Apologies for awkward navigation, at the moment everything is plain Markdown in 
 
 ## Character Creation - Role
 
-There are no roles in a BurritoVerse game.
+*"I don't much care for having static roles in anything outsie small one-off games, I feel you should be able to build whatever you want."*
 
-I don't much care for having static roles, I feel you should be able to build whatever you want. Ignore this section of the core rulebook and stock player sheet. View the Skills page for details as to how this changes character creation.
+There are no roles in a BurritoVerse game. Ignore this section of the core rulebook and stock player sheet. View the Skills page for details as to how this changes character creation.
 
 ----
 
