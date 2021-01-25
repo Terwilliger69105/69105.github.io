@@ -57,9 +57,11 @@ Make sure, before finalizing your skills, to go through the **Character Creation
 
 Advantages and Disadvantages are an added feature to BurritoVerse which allow players to take specific boosts and flaws. You may draw from or add to your skill point pool, removing and/or adding up to 12 skill points if you would like, during character creation. Simply go to the tables, if Advantage then subtract the (#SP) from your Skill Points pool or it Disadvantage then add (#SP) to your Skill Points pool. You may not buy more advantages during gameplay but you may "sell off" non-permanent disadvantages.
 
-*Advantages being worked on!*
+[View Available Advantages](https://docs.google.com/document/d/1j9NDFlP-G80zLZfFSTAyqi3PVoSjjliDU5BiIakjNdE/edit?usp=sharing)
 
 [View Available Disadvantages](https://docs.google.com/document/d/1REj3BvO2hcfTUvVy2KOEKjCXQXv9n7SoyDV66lRFtRM/edit?usp=sharing)
+
+[View the Friend, Enemy, and Contact Tables](https://docs.google.com/document/d/1c2_PGIUQ6I0EJpmVfX6JqyyWjxUtlI7r37oF9gRstRw/edit?usp=sharing)
 
 *Appendix sections still being brought over, should all be up by 1/26/2021!*
 
