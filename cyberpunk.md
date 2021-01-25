@@ -65,6 +65,8 @@ To view Advantages & Disadvantages, *to be finished!*
 
 Determine your starting money by rolling 2D10 and multiplying the result by 250.
 
+If your character needs certain items, items which would blow your money limit, contact the GM! As long as you're requesting things which make sense, say a covert media with a camera built as a cybereye, then we may be able to accomodate your wants.
+
 ----
 
 ## Character Creation - Lifepath
