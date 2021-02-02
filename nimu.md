@@ -11,7 +11,7 @@ Check for occasional updates!
 
 **August 8th, 2020 - 1:19AM**
 
-One of the humans came to me with his friend, a knife through her chest looking like she was on the verge of death. He was crying, she was catatonic. Emily asked me to help her but I didn't need the prompt, I was already going to. Her pain was hard to bear. Something inside her was burning, a love for her other, but something else was eating at her from her past. A previous life? A past love who abandoned her. She felt like she had fifty years of life in twenty years of existence. I hope that she recovers well. If he cares for her then I feel that burning can come back out. I won't let her die out.
+One of the humans came to me with his friend, a knife through her chest looking like she was on the verge of death. He was crying, she was catatonic. Emily asked me to help her but I didn't need the prompt, I was already going to. Her pain was hard to bear. Something inside her was burning, a love for her other, but something else was eating at her from her past. A previous life? A past love who abandoned her. She felt like she had fifty years of life in twenty years of existence. When I brought her back she was crying tears of sorrow and love. I'm glad that she loves him. Maybe this was a test. Did she do this with a past lover? I hope not. I hope that she recovers well. I won't let her die out. She needs him and he needs her.
 
 ---
 
