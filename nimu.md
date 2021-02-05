@@ -81,12 +81,12 @@ Mother won't stop crying. Father was yelling at her. He says she's purposefully 
 
 ---
 
-November 12th, 2012 - 16:11:51
+**November 12th, 2012 - 16:11:51**
 
 School still sucks. They made fun of me. Because my notebook. I don't care. I love my notebook. Father isn't home for a week. That's good. He beats me. He beats Mother too. I don't love him. He doesn't love either of us. He calls us tools. I'm glad I can talk with my notebook about it.
 
 ---
 
-November 11th, 2012 - 14:31:47
+**November 11th, 2012 - 14:31:47**
 
 Mother bought me this notebook. She says it has unlimited pages. I love it. I'll write in it every day. I can never talk with other people. They see me as strange. This notebook doesn't. I love this notebook. School sucks. The teachers pick on me. They say Father told them to. I don't like that. I wish he didn't. The students do too. I don't even do anything. It's my clothes. But I like my clothes. They're comfortable. The skirt is cute.
