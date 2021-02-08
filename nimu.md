@@ -5,7 +5,19 @@ permalink: /nimu/
 
 Nimu has a corkboard wall where she pins up journal entries, written in Kipolan and/or Japanese then translated into Englsih by Yvonne, which anyone may read. She knows that she's going to struggle to learn English, she's been trying and unable for four months, so she uses this as her little method of communication with the party while not in the presence of the Eyes.
 
-Check for occasional updates!
+Check for occasional updates! Last update was on **Feb. 7th, 2021**
+
+---
+
+**August 8th, 2020 - 12:03:10**
+
+Mother told me about a girl she saved once. It was a lesson to teach me what I could do. It was one of the few times she openly showed me love. The girl was nicknamed Caramel. She had mismatched auras. They conflicted her. Her one aura was demonic. Her other was protective. When they clashed she would break down. A lover rejected her. They clashed. She killed herself. Mother revived her. She left for the Human world. We live with a girl named Caramel. She has mismatched auras. One is demonic. One is protective. They've formed a third and fourth. One is truely angelic. The other is scared. She lives with us. I hope she accepts me. I hope she remembers mother.
+
+---
+
+**August 8th, 2020 - 11:17:08**
+
+Yzin and a human are going. They met one of the Order. Well other humans met the Order. 37 humans are dead by their hands. 37 who did nothing to harm the Order. I can't let the humans die. I won't let the humans die. One of the leaders will be present. Harry. He's weak. He'll probably let them kill him. He may use dirty tactics. They don't want me getting hurt. I don't care. I'm going to help.
 
 ---
 
@@ -33,6 +45,12 @@ I knew that tensions were high. Yzin tried to leave out of guilt and worry for t
 
 ---
 
+**June 15th, 2020 - 09:35:01**
+
+Father's men are coming for me. The remainder of them. They stole my things in the night. A "meeting place" was set up to get it back. I went. I'm stupid. They tried to put me in a snare. I dodged it. A car fell down from a building. I shoved one of the men under it. He turned into a gory smoothie. The others tried to rush me. I used the severed arm of their friend as a weapon. I forgot about my sword. I need to remember my sword. It never leaves me. It would've got me out with less damage. My face is cut open. I wonder if those humans could help me. I don't have anything to pay them. I've seen them help others. I'll go rest. I want to go see them again.
+
+---
+
 **May 10th, 2020 - 02:19:39**
 
 I want to go see those nice humans again. I know they won't understand me. That's okay. They'll give me food and water in a fair exchange. That's all I need. I stole lots of valuables and money. Forgive me. I'll stash the objects to be safe. Lots of Father's riches are there. I took nothing of Mother's. I pocketed the money. Hopefully the nice humans can clean off the filthy stains of Father's group and clean the money out. They deserve it. I should learn some of their language and tell them where I stashed Father's things. Maybe someday I'll be able to communicate with them. They helped me survive. I deserve to pay them back with my life. Money isn't enough. I think I finally know my purpose.
@@ -57,9 +75,21 @@ Evil groups of humans won't stop coming after me. At first it was to figure out 
 
 ---
 
+**May 6th, 2020 - 07:10:59**
+
+I did it. Finally. I was exiled. For the best. I killed three of the men Father was keeping over. I ruined their bodies. I dragged them to the law enforcement. They threw me out without asking Father. Father will be pissed. Good. I'll be back. I'm going to kill Father. He has to die. I know he'll be too angry to check Mother. I unplugged her vat. She's dead. I hear her voice when I see the eyes. She thanked me. I want to see her again. She told me to not die off. She told me to find a nice human. She told me to have a child out of love. I want to. I will. For her.
+
+---
+
 **October 29th, 2019 - 10:49:21**
 
 Father did it. He put Mother in a stasis vat. The kind that breeders use. He won't let me see her. He knows I'll kill her to save her. She doesn't deserve this. She may not have loved me but I can still love her. He says he's going to take her out weekly to inseminate her. He claims it'll work. I can still feel her presence. I know it won't work. I hope she's talking with the Eyes. They will make sure she doesn't become what she fears.
+
+---
+
+**December 29th, 2018 - 01:48:44**
+
+Father got mad at me. Madder than usual. I disrupted his house guests. Other men like him talking about breeding Mother. He threatened me with a knife. I tried to make him use it on me. He didn't. He says he'll save it for my womb. Mother locked me inside my room. I'm going to miss a week of schooling. I don't care. Nobody that likes me is left there. I need to leave.
 
 ---
 
@@ -78,6 +108,30 @@ Father did it again. He forced himself into mother's womb and my throat. He said
 **December 14th, 2016 - 01:38:22**
 
 Mother won't stop crying. Father was yelling at her. He says she's purposefully stopping his pregnancy attempts. He grabbed me and dragged me to their room. He made me watch him breed her. He put himself in my mouth. Mother screamed out. I gagged. The taste was disgusting. He hit her. He said I have to learn for when I turn sixteen. He pulled out a gun to threaten us. She wanted him to kill us. He didn't. I wish he did. That would have got him killed. Bitch.
+
+---
+
+**July 15th, 2016 - 21:37:45**
+
+Emi left Kipola today. She couldn't keep living where she was. She says men were harassing her. Something about her father dying. I wish my father would die. But not every parent is like mine. Maybe I don't understand death. She said she hopes we meet again. I hope so. Please Eyes. Guide her to safety. Guide her to a new family. Keep her safe. She's a good being. Let us meet again.
+
+---
+
+**January 1st, 2014 - 00:00:31**
+
+I got to go to Emi's home for the new year. Her family is nice. Her Mother loves her. Her Father loves her. I wish my parents loved me. 
+
+---
+
+**November 14th, 2012 - 23:10:59**
+
+The nice girl is named Emi. She said we can be friends. I want to be friends. Mother let me go visit her. Emi loves drawing. I want to see her more. Father wasn't happy that I made a friend. He says he'll have her killed as soon as she can. Mother won't let him. Mother told me to enjoy myself.
+
+---
+
+**November 13th, 2012 - 17:00:07**
+
+A nice girl told me she liked my notebook. She enjoyed my drawings. She was happy to see someone else writing. It made me happy too. She had a sketch pad. She was older than me. I like her. I hope we can be friends.
 
 ---
 
