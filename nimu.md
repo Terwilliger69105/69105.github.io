@@ -5,7 +5,13 @@ permalink: /nimu/
 
 Nimu has a corkboard wall where she pins up journal entries, written in Kipolan and/or Japanese then translated into Englsih by Yvonne, which anyone may read. She knows that she's going to struggle to learn English, she's been trying and unable for four months, so she uses this as her little method of communication with the party while not in the presence of the Eyes.
 
-Check for occasional updates! Last update was on **Feb. 7th, 2021**
+Check for occasional updates! Last update was on **Feb. 8th, 2021**
+
+---
+
+**☺ - ☻**
+
+Alex.
 
 ---
 
@@ -45,6 +51,12 @@ I knew that tensions were high. Yzin tried to leave out of guilt and worry for t
 
 ---
 
+**July 8th, 2020 - 19:48:29**
+
+Those humans helped me. Men tried to follow me from their place. They stopped them. I'm happy. I want to go back. I want to thank them. I just can't speak to them. I wish I could. I like them.
+
+---
+
 **June 15th, 2020 - 09:35:01**
 
 Father's men are coming for me. The remainder of them. They stole my things in the night. A "meeting place" was set up to get it back. I went. I'm stupid. They tried to put me in a snare. I dodged it. A car fell down from a building. I shoved one of the men under it. He turned into a gory smoothie. The others tried to rush me. I used the severed arm of their friend as a weapon. I forgot about my sword. I need to remember my sword. It never leaves me. It would've got me out with less damage. My face is cut open. I wonder if those humans could help me. I don't have anything to pay them. I've seen them help others. I'll go rest. I want to go see them again.
@@ -81,6 +93,10 @@ I did it. Finally. I was exiled. For the best. I killed three of the men Father 
 
 ---
 
+**January 8th, 2020 - 18:11:43**
+
+Father almost broke. I made him mad on purpose. I smashed some of his equipment. I cut him with a knife. He pinned me to a bed. I kept swearing at him. I wanted him to know how much I hate him. He positioned himself like he positions himself over Mother. I told him to put it in. He knows that would get him exiled. He almost did. I wish he did. He pulled off of me. He said he'll wait. Bitch. I can't wait to leave. He'll never get what he wants.
+
 **October 29th, 2019 - 10:49:21**
 
 Father did it. He put Mother in a stasis vat. The kind that breeders use. He won't let me see her. He knows I'll kill her to save her. She doesn't deserve this. She may not have loved me but I can still love her. He says he's going to take her out weekly to inseminate her. He claims it'll work. I can still feel her presence. I know it won't work. I hope she's talking with the Eyes. They will make sure she doesn't become what she fears.
@@ -114,6 +130,12 @@ Mother won't stop crying. Father was yelling at her. He says she's purposefully 
 **July 15th, 2016 - 21:37:45**
 
 Emi left Kipola today. She couldn't keep living where she was. She says men were harassing her. Something about her father dying. I wish my father would die. But not every parent is like mine. Maybe I don't understand death. She said she hopes we meet again. I hope so. Please Eyes. Guide her to safety. Guide her to a new family. Keep her safe. She's a good being. Let us meet again.
+
+---
+
+**January 22nd, 2014 - 06:31:28**
+
+Father is forcing me to go to school. I couldn't breathe when I woke up. It feels like someone is sitting on my chest. He says I need to learn to deal with it. Mother wanted me to take a sick day. He hit her. I don't want to be here.
 
 ---
 
