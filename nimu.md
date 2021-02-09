@@ -11,7 +11,9 @@ Check for occasional updates! Last update was on **Feb. 8th, 2021**
 
 **☺ - ☻**
 
-Alex.
+Alex. 
+
+She sees it. She knows it. The trickster exists. For the good of us all. I wonder where the other three are.
 
 ---
 
@@ -48,6 +50,24 @@ The neighbor couple invited me over for a party. They were really nice. One coul
 **August 6th-B, 2020 - 15:15:15**
 
 I knew that tensions were high. Yzin tried to leave out of guilt and worry for the humans. I knew she would come back but I couldn't let her go. She has a love for him and he has a love for her. She was stuck in her head thinking she was a monster. I brought them to the Eyes and tried to help. They seem happy now. We went to a city full of monsters and plant-based creatures. Now we're at some sort of human gathering.
+
+---
+
+**August 4th, 2020 - 02:17:20**
+
+I like being back with the Humans. They don't understand me. That's okay. They're nice. They get me food. They care about me. The other girls are nice. They include me. Emily seems familiar but I can't say why. I like this new home. I'm happy. The Order exists here, too. That's okay. I'll help the Humans get rid of them. I'll make sure none of the Humans pass away. I heard talk of going to outer space. I would love to. I wonder if they need protection up there.
+
+---
+
+**July 24th, 2020 - 11:32:45**
+
+New humans live at the bar. They say they're going to help rebuild the city. Other humans asked if they were with the North. They said they aren't. I like knowing that. The Order works with the North. They try to screw up the new Humans. I hope the other Humans are okay. They went through the Exit. I wonder if I'll see them again.
+
+---
+
+**July 9th, 2020 - 06:27:11**
+
+I tried to sleep. Some men tried to abduct me. They said they were going to take me to a show. Members of the Order. Fancy clothes. I killed them. All of them. They called for backup. I killed the backup. My clothes are ruined. I need new clothes. I wonder if the Humans sell clothes. There's a trading area near the gate in. I'm going to go look.
 
 ---
 
