@@ -5,6 +5,8 @@ permalink: /cyberpunk/
 
 ## Welcome to "PagePunk" AKA everything you need to play in a BurritoVerse game! 
 
+[heck](/kipola/)
+
 Apologies for awkward navigation, at the moment everything is plain Markdown in one file as the website isn't redirecting very kindly.
 
 ----
