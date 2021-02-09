@@ -1,6 +1,6 @@
 ---
-title: "Cyberpunk"
-permalink: /cyberpunk/
+title: "Burritoverse"
+permalink: /burritoverse/
 ---
 
 ## Welcome to "PagePunk" AKA everything you need to play in a BurritoVerse game! 
