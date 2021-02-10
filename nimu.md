@@ -11,7 +11,7 @@ Check for occasional updates! Last update was on **Feb. 8th, 2021**
 
 **☺ - ☻**
 
-Alex. 
+Alex. Scurra helped Alex. One of the four. Why is he alive? Legends said he died two thousand years ago.
 
 She sees it. She knows it. The trickster exists. For the good of us all. I wonder where the other three are.
 
@@ -153,6 +153,12 @@ Emi left Kipola today. She couldn't keep living where she was. She says men were
 
 ---
 
+**May 11th, 2015**
+
+I can't find my photo book. I don't know where it went. I'm scared. Father said he was going to take away my things. I think he took it away. I hope he didn't destroy it. All of my memories with Emi are there.
+
+---
+
 **January 22nd, 2014 - 06:31:28**
 
 Father is forcing me to go to school. I couldn't breathe when I woke up. It feels like someone is sitting on my chest. He says I need to learn to deal with it. Mother wanted me to take a sick day. He hit her. I don't want to be here.
@@ -162,6 +168,12 @@ Father is forcing me to go to school. I couldn't breathe when I woke up. It feel
 **January 1st, 2014 - 00:00:31**
 
 I got to go to Emi's home for the new year. Her family is nice. Her Mother loves her. Her Father loves her. I wish my parents loved me. 
+
+---
+
+**July 3rd, 2013 - 00:07:10**
+
+I had a strange dream. I was on top of a tower in some big city. I had a big sword. I just killed a man. People were applauding me. I didn't get why. It was strange. I wonder what it means. Mother wouldn't tell me. The Eyes say that it means I have a good future. I'll just have to wait.
 
 ---
 
