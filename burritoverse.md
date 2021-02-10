@@ -9,7 +9,7 @@ This is the hub for content related to my long-running series of half-failed yet
 
 If you're interested in creating a character for the game, [please click here.](/ccreation/)
 
-If you're interested in some current game-related lore, [please click here.](/lore/)
+If you're interested in some current game-related lore, [please click here.](/lore.html)
 
 There will be more pages to come as things get smoothed out. 
 
