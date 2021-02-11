@@ -27,7 +27,7 @@ I'll be holding updates, the "Tonight Stuff" posts from the BCP Discord server, 
 
 * Work on the general game tables, stuff for the **ccreation** pages really, that way they're actually there.
 
-* (Non-Game) Update the home page with a nice "welcome" message.
+* ~~(Non-Game) Update the home page with a nice "welcome" message.~~ Completed, subject to change.
 
 * (Non-Game) Add a page for ongoing personal projects that way I have a place to document what I'm doing.
 
