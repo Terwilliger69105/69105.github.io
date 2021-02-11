@@ -25,6 +25,8 @@ I'm going to try to get Nimu's Board done for the day before I head to work at l
 
 Past all that there really isn't much. I'm really kicking myself for not being caught up on the Kipola stuff but it's just too much to say "I'm just going to write" unitil I can get myself back into character for Emily. Sorry for always being behind on it.
 
+Please make sure to get text for any mini stuff you want out to Halle, I won't have much time until 4:45PM on Saturday. She'll be fine with it, at the least she'll do 90% of it and send the rest to me for completion before session.
+
 I'm unsure if I'm going to be able to run the SGFS stuff this weekend but I really want to. I just need to come up with a scenario, I kinda threw my last one out because I didn't like it. I'll figure it out. That's kinda priority for downtime tonight.
 
 ---
