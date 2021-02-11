@@ -3,9 +3,7 @@ title: "Nimu"
 permalink: /nimu/
 ---
 
-Nimu has a corkboard wall where she pins up journal entries, written in Kipolan and/or Japanese then translated into Englsih by Yvonne, which anyone may read. She knows that she's going to struggle to learn English, she's been trying and unable for four months, so she uses this as her little method of communication with the party while not in the presence of the Eyes.
-
-Check for occasional updates! Last update was on **Feb. 8th, 2021**
+*Last update was on Feb. 8th, 2021*
 
 ---
 
