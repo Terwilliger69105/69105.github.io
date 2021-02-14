@@ -3,15 +3,43 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 8th, 2021*
+*Last update was on Feb. 14th, 2021*
+
+---
+
+**August 9th, 2020 - 21:11:03**
+
+The humans who introduced me to tomato came by. They had more of their bread things. I like them. They're nice humans.
+
+---
+
+**August 9th, 2020 - 12:39:34**
+
+One of the humans entered. The force tried to stop them. I got rid of it. I ran rooftops to the corporate towers to fight it. It said it would meet me there. I left. I ran south then dropped all power. It should think I'm hiding in Chinatown. I want it to stay there.
+
+---
+
+**August 9th, 2020 - 04:31:29**
+
+A force is trying to enter the gate. It's not a good force. Yzin was smart. It's her gate. She made the entrance feel as-if it was a district over. They don't know we live here. The force isn't going to them. It's just waiting for prey. It's waiting for the humans. It knows it can try to influence them. Damn the force. Damn it to heaven. If I see any humans enter then I'll fight it myself.
+
+---
+
+**August 9th, 2020 - 03:11:54**
+
+Yzin and Emi are gone. Their room is a gate. I can see them sleeping. Neither are comfortable. Something is going wrong. I need to know what. I can't let them stay this way. I can't let them get hurt. I hope no humans try to enter. They may be corrupted. I can't watch them die. I don't want to watch them die. I don't want to see anyone die. I hope they're safe. I have to tell Alex.
+
+---
+
+**August 8th, 2020 - 23:41:59**
+
+I didn't realize who Emily was until today. Emily is Emi. She shares the same drawing style. She doesn't remember me though. I need to find a way to remind her. I wonder if she remembers at all. I hope she remembers. I know she remembers.
 
 ---
 
 **☺ - ☻**
 
-Alex. Scurra helped Alex. One of the four. Why is he alive? Legends said he died two thousand years ago.
-
-She sees it. She knows it. The trickster exists. For the good of us all. I wonder where the other three are.
+*Sheet was removed from board on August 8th, 2020 at 15:13:29 by request of Nimu. A note sits where it was, simply reading the text "Not yet." next to it.*
 
 ---
 
@@ -115,6 +143,8 @@ I did it. Finally. I was exiled. For the best. I killed three of the men Father 
 
 Father almost broke. I made him mad on purpose. I smashed some of his equipment. I cut him with a knife. He pinned me to a bed. I kept swearing at him. I wanted him to know how much I hate him. He positioned himself like he positions himself over Mother. I told him to put it in. He knows that would get him exiled. He almost did. I wish he did. He pulled off of me. He said he'll wait. Bitch. I can't wait to leave. He'll never get what he wants.
 
+---
+
 **October 29th, 2019 - 10:49:21**
 
 Father did it. He put Mother in a stasis vat. The kind that breeders use. He won't let me see her. He knows I'll kill her to save her. She doesn't deserve this. She may not have loved me but I can still love her. He says he's going to take her out weekly to inseminate her. He claims it'll work. I can still feel her presence. I know it won't work. I hope she's talking with the Eyes. They will make sure she doesn't become what she fears.
@@ -130,6 +160,12 @@ Father got mad at me. Madder than usual. I disrupted his house guests. Other men
 **June 19th, 2017 - 09:11:38**
 
 I saw Ichas in a dream again. It was when he was training me for the first time. How he told me I was good. How he helped me. I'm glad to know his soul is at peace. The Eyes tell me that he has a new purpose. I need to practice more. For my mentor. Other girls ask me why I'm in love with him. I'm not. I just respect him madly. For everything. I still haven't found love. They make fun of me for that. They say I'm stupid for not having interacted with the males. I don't like them. They're assholes. I wouldn't dare have a child with them. 
+
+---
+
+**March 1st, 2017 - 00:31:15**
+
+Father didn't lie. He won't stop. It burns. Everything burns. Mother says he makes it feel like that on purpose. The Eyes told me I'll get through it. I don't know how. I believe them though. They said it will be a few more years. Mother says that after so long it feels like nothing. She told him to do it to me in my sleep. I wake up coughing his seed. At least I don't feel the hour of torture. I can't wait for those years to be up.
 
 ---
 
@@ -157,6 +193,12 @@ I can't find my photo book. I don't know where it went. I'm scared. Father said 
 
 ---
 
+**September 4th, 2014 - 11:13:45**
+
+People keep looking at Emi and I. They make fun of us. They say that she's a predator. They say she needs to get away from little girls. Emi has never hurt me. I don't get other people. All we do is draw and talk. Damn them.
+
+---
+
 **January 22nd, 2014 - 06:31:28**
 
 Father is forcing me to go to school. I couldn't breathe when I woke up. It feels like someone is sitting on my chest. He says I need to learn to deal with it. Mother wanted me to take a sick day. He hit her. I don't want to be here.
@@ -169,9 +211,21 @@ I got to go to Emi's home for the new year. Her family is nice. Her Mother loves
 
 ---
 
+***July 19th, 2013 - 15:43:11**
+
+Father didn't want Ichas to teach me about my sword. I'm glad Ichas doesn't care about Father. I wish to be more like Ichas. I love my sword. He says he'll train me three days a week. It's a program to get me away from school. I love it.
+
+---
+
 **July 3rd, 2013 - 00:07:10**
 
 I had a strange dream. I was on top of a tower in some big city. I had a big sword. I just killed a man. People were applauding me. I didn't get why. It was strange. I wonder what it means. Mother wouldn't tell me. The Eyes say that it means I have a good future. I'll just have to wait.
+
+---
+
+**December 25th, 2012 - 09:11:45**
+
+Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
 
 ---
 
