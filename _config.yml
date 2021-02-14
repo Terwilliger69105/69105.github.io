@@ -1,5 +1,7 @@
 # Example Site settings
 
+include: ['_pages']
+
 header_pages:
   - index.md
   - burritoverse.md
