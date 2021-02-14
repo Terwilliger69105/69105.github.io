@@ -1,6 +1,6 @@
 ---
 title: "Lore"
-peramlink: /lore/
+peramlink: /burritoverse/lore/
 ---
 
 **Welcome to the BurritoVerse Lore Page!**

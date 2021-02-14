@@ -1,6 +1,6 @@
 ---
 title: "Kipola"
-permalink: /kipola/
+permalink: /burritoverse/kipola/
 ---
 
 *heck*

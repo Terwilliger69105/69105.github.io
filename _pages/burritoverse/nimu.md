@@ -1,6 +1,6 @@
 ---
 title: "Nimu"
-permalink: /nimu/
+permalink: /burritoverse/nimu/
 ---
 
 *Last update was on Feb. 8th, 2021*

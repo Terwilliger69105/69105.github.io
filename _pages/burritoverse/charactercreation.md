@@ -1,6 +1,6 @@
 ---
 title: "Burritoverse Character Creation"
-permalink: /ccreation/
+permalink: /burritoverse/ccreation/
 ---
 
 ## Character Creation - Role
