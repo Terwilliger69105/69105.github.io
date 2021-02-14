@@ -4,7 +4,7 @@ include: ['_pages']
 
 header_pages:
   - index.md
-  - burritoverse.md
+  - /_pages/burritoverse.md
 
 footer: 'There are 69,105 leaves here.'
 
