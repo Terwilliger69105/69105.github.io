@@ -7,9 +7,9 @@ permalink: /burritoverse/
 
 This is the hub for Andrew's *Burritoverse* series of Cyberpunk tabletop role-playing games. We're coming up on our eighth year running, it's currently the eighth mainline game, and we can't wait to keep it going for another eight!
 
-If you're interested in creating a character for the game, [please click here.](/ccreation/)
+If you're interested in creating a character for the game, [please click here.](/burritoverse/ccreation/)
 
-If you're interested in some current game-related lore, [please click here.](/lore.html)
+If you're interested in some current game-related lore, [please click here.](/burritoverse/lore/)
 
 The Inactivity timer is currently sitting at **6** days of content which need to be made up for.
 
