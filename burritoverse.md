@@ -17,8 +17,14 @@ There will be more pages to come as things get smoothed out.
 
 ---
 
-**Update for Feb. 14th, 2021**
+**Update for Feb. 15th, 2021**
 
-I need to prove to my own damn head that I can do this. If you want a text-based mini in the form of a file then just write it up and post it, Halle's going to be doing the responses to all of those. If you want a text-based mini with dialog then just PM me and we'll start going back and forth. If you want a voice-based mini then message me with what day and time you want it at. You have all of August 10th to cover, from whenever you went to sleep the night before to whenever you want to go to bed. 
+If you're reading this update then hey, thanks! I'm going to be posting the "Tonight Things" stuff on Discord too but this one will actually get updated as the night goes on.
 
-I'm sorry for killing session but I couldn't do anything that night. All of my thoughts while I was out at dinner were telling me that I was being worthless, I was just listening to other people talk about things and feeling like I had no purpose being with that group, and the second I got home I was vomiting up everything I ate. I hope you understand why I had to call it off. I'm sorry for wasting your time sitting in voice just to hear we weren't doing anything.
+* I'm going to be putting a new webpage live, "Molly's Job Board" or so I'm calling it at the moment, sometime within the next day or two. It simply enough is just that, a job board which anyone can go to and do stuff from with Molly paying you out. Hopefully having the added simple-to-see side-quests will give you more things to do! They're available to everyone, there will be everything from courier jobs to hacks and hits, and it'll be updated probably once per week.
+
+* I'm going to redo some of these links, the "Lore" page (being that it's just boards of info) will probably be converted to the "Information" page which will include the upcoming Job Board.
+
+* Halle is doing some finishing touches on drug tables, we're hoping to have those out by the end of the week as they need a little more playtesting
+
+* You've recieved a second letter from the Birds but probably haven't seen it yet. Go talk with Emily, she's been grabbing your mail!
