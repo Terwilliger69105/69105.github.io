@@ -6,12 +6,10 @@ permalink: /burritoverse/nimu/
 *Last update was on Feb. 15th, 2021 around 8:10PM*
 
 ---
-
-H                           h
-      e                      e
-         l  
-         p                 r
-
+⠀⠀h
+⠀⠀⠀⠀⠀e
+⠀⠀⠀⠀l
+⠀⠀⠀⠀⠀⠀p
 ---
 
 ??? - ??:??:??
