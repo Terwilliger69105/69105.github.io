@@ -7,6 +7,13 @@ permalink: /burritoverse/nimu/
 
 ---
 
+H                           h
+      e                      e
+         l  
+         p                 r
+
+---
+
 ??? - ??:??:??
 
 The Eyes told me to watch for Yzin. There's going to be a change. It will be for the better. She'll be confident. She'll live. She'll be happier. But she won't be careful at first. That's what we saw earlier. I know it. She won't revert to seeming Human. She may stay demonic. We'll have to see more of the order. We can't let her leave. We need her. I'll do my best. I need to let the humans know. I wish I could speak with them easily.
