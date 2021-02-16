@@ -3,7 +3,7 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 15th, 2021 around 8:10PM*
+*Last update was on Feb. 16th, 2021 around 1:30PM*
 
 ---
 
@@ -129,9 +129,21 @@ Those humans helped me. Men tried to follow me from their place. They stopped th
 
 ---
 
+**June 21st, 2020 - 18:30:41**
+
+A little boy was walking down the road. He was happy. He was being curious. Then he was murdered. Someone put a bullet through his skull. They ran out from an alley and stripped him to nothing. They stole everything he had. He was no older than ten years. I ran up to them. I beat them with my fists. They screamed. I didn't care. I grabbed a knife and stabbed them. Over and over and over. They died. I used their body to repair the boy. I got him dressed. I put all of his things back on him. I put him in a building I know was safe. He should wake soon. I'm going to watch and make sure he lives.
+
+---
+
 **June 15th, 2020 - 09:35:01**
 
 Father's men are coming for me. The remainder of them. They stole my things in the night. A "meeting place" was set up to get it back. I went. I'm stupid. They tried to put me in a snare. I dodged it. A car fell down from a building. I shoved one of the men under it. He turned into a gory smoothie. The others tried to rush me. I used the severed arm of their friend as a weapon. I forgot about my sword. I need to remember my sword. It never leaves me. It would've got me out with less damage. My face is cut open. I wonder if those humans could help me. I don't have anything to pay them. I've seen them help others. I'll go rest. I want to go see them again.
+
+---
+
+**May 11th, 2020 - 01:18:29**
+
+A man approached me. He held out his hand and gestured for me to take it. I got scared. He came closer to me. I pulled out a weapon. He stood back and held his hands up. He looked scared. I backed away. I ran. I was going to kill him. I'm happy I didn't. I trailed him. He looked sad. He went home to a family. There were three kids and a female. He was talking with his hands. It looked like he was talking about me. I cried.
 
 ---
 
