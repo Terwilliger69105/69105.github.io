@@ -3,7 +3,13 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 14th, 2021*
+*Last update was on Feb. 15th, 2021*
+
+---
+
+**August 10th, 2020 - 02:11:52**
+
+Yzin, Alex, and I went out again. It wasn't as easy to keep Yzin hidden. That was okay. She doesn't want to hide anymore. We played innocent and helpless. It attracted some gangers. We followed them into an alley. They put us at gunpoint. Yzin let them rape her. She sent a signal and we struck. They all lost their heads. The rapist had his eyes gouged out. Alex made us go into a rage with her sword. It felt good. We walked home. I got a taco with extra tomato. I like tomatoes.
 
 ---
 
@@ -220,6 +226,13 @@ Father didn't want Ichas to teach me about my sword. I'm glad Ichas doesn't care
 **July 3rd, 2013 - 00:07:10**
 
 I had a strange dream. I was on top of a tower in some big city. I had a big sword. I just killed a man. People were applauding me. I didn't get why. It was strange. I wonder what it means. Mother wouldn't tell me. The Eyes say that it means I have a good future. I'll just have to wait.
+
+
+---
+
+**March 2nd, 2013 - 11:18:21**
+
+I got taken to the outside world today. It was a class trip. We looked at the humans and what they do. Humans are funny. I like it though. They have interesting things. They can dress how they want. They have freedoms.
 
 ---
 
