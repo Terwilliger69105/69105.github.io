@@ -6,10 +6,16 @@ permalink: /burritoverse/nimu/
 *Last update was on Feb. 15th, 2021 around 8:10PM*
 
 ---
-⠀⠀h
-⠀⠀⠀⠀⠀e
-⠀⠀⠀⠀l
-⠀⠀⠀⠀⠀⠀p
+
+??? - ??:??:??
+
+She's dead because of me. I failed her. I failed all of the humans. I failed at the one thing I was made to do. The Eyes tell me it's not my fault. I find it hard to believe. I knew she was going to do it. I knew they took her mind over.
+
+ʰᵉˡᵖ
+help
+**help** 
+***help***
+
 ---
 
 ??? - ??:??:??
