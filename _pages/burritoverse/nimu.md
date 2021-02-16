@@ -3,7 +3,13 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 15th, 2021*
+*Last update was on Feb. 15th, 2021 around 8:10PM*
+
+---
+
+??? - ??:??:??
+
+The Eyes told me to watch for Yzin. There's going to be a change. It will be for the better. She'll be confident. She'll live. She'll be happier. But she won't be careful at first. That's what we saw earlier. I know it. She won't revert to seeming Human. She may stay demonic. We'll have to see more of the order. We can't let her leave. We need her. I'll do my best. I need to let the humans know. I wish I could speak with them easily.
 
 ---
 
@@ -157,6 +163,12 @@ Father did it. He put Mother in a stasis vat. The kind that breeders use. He won
 
 ---
 
+**February 21st, 2019 - 09:32:45**
+
+I keep getting visions of a city. I don't know what they mean. I'm standing guarding a group of humans. There's a large man in a metal suit. He tries to shoot me. I decapitate him. I don't get it.
+
+---
+
 **December 29th, 2018 - 01:48:44**
 
 Father got mad at me. Madder than usual. I disrupted his house guests. Other men like him talking about breeding Mother. He threatened me with a knife. I tried to make him use it on me. He didn't. He says he'll save it for my womb. Mother locked me inside my room. I'm going to miss a week of schooling. I don't care. Nobody that likes me is left there. I need to leave.
@@ -193,7 +205,13 @@ Emi left Kipola today. She couldn't keep living where she was. She says men were
 
 ---
 
-**May 11th, 2015**
+**June 2nd, 2015 - 07:21:45**
+
+I found my photo book. It's in Father's room. He didn't destroy it. He did put something over it though. It's not anything he can usually do. I need to get it back. I told Mother. She said she'll try to help me.
+
+---
+
+**May 11th, 2015 - 16:31:00**
 
 I can't find my photo book. I don't know where it went. I'm scared. Father said he was going to take away my things. I think he took it away. I hope he didn't destroy it. All of my memories with Emi are there.
 
@@ -226,7 +244,6 @@ Father didn't want Ichas to teach me about my sword. I'm glad Ichas doesn't care
 **July 3rd, 2013 - 00:07:10**
 
 I had a strange dream. I was on top of a tower in some big city. I had a big sword. I just killed a man. People were applauding me. I didn't get why. It was strange. I wonder what it means. Mother wouldn't tell me. The Eyes say that it means I have a good future. I'll just have to wait.
-
 
 ---
 
