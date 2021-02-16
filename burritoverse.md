@@ -11,7 +11,7 @@ If you're interested in creating a character for the game, [please click here.](
 
 If you're interested in some current game-related lore, [please click here.](/burritoverse/lore/)
 
-The Inactivity timer is currently sitting at **6** days of content which need to be made up for.
+The Inactivity timer is currently sitting at **4** days of content which need to be made up for.
 
 There will be more pages to come as things get smoothed out. 
 
