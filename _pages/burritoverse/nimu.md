@@ -3,27 +3,29 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 16th, 2021 around 1:30PM*
+*Last update was on Feb. 17th, 2021 around 10PM*
 
 ---
 
-??? - ??:??:??
-
-She's dead because of me. I failed her. I failed all of the humans. I failed at the one thing I was made to do. The Eyes tell me it's not my fault. I find it hard to believe. I knew she was going to do it. I knew they took her mind over.
-
-ʰᵉˡᵖ
-
-help
-
-**help** 
-
-***help***
+*Two thumbtacks, bits of ripped off paper, sit on the board. The only word you can see is "HELP" underneath the pin. Hopefully they were nothing important...
 
 ---
 
-??? - ??:??:??
+**August 11th-B, 2020 - 04:11:32**
 
-The Eyes told me to watch for Yzin. There's going to be a change. It will be for the better. She'll be confident. She'll live. She'll be happier. But she won't be careful at first. That's what we saw earlier. I know it. She won't revert to seeming Human. She may stay demonic. We'll have to see more of the order. We can't let her leave. We need her. I'll do my best. I need to let the humans know. I wish I could speak with them easily.
+The humans aren't here yet. I am. I'm going to switch them at 0500. She won't die. He won't have to suffer that pain. Her past will help. We need all of them.
+
+---
+
+**August 11th, 2020 - 02:23:45**
+
+She responded well to others. They showed examples of her purpose. They showed her things she loved. She's crying. She wants Hugo. I would bother him but there's a force near him. I can't disturb it. They'll learn we're here. It's not here for us. Something horrible is going to happen. I want to stop it. I won't let them win. I just need to wait for them to leave. The eyes proved I can fix what will happen. The boy's mother is in danger. I'll make sure she lives. I need to apologise to the humans. Reversal may alter small things.
+
+---
+
+**August 10th, 2020 - 12:55:24**
+
+Yzin isn't herself. Her hair was blue earlier. It's red. She has no motivation. Something is broken. I need to help her. I just don't know how.
 
 ---
 
