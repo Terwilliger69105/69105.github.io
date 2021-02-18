@@ -19,10 +19,4 @@ There will be more pages to come as things get smoothed out.
 
 **Update for Feb. 18th, 2021**
 
-I keep fucking up your minis.
-
-I fucked up two entire characters.
-
-Just send me text minis unless you really want to risk having me ruin everything for you too
-
-I'm sorry for being a fuck-up.
+...
