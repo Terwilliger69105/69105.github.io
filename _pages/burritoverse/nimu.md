@@ -7,7 +7,7 @@ permalink: /burritoverse/nimu/
 
 ---
 
-*Two thumbtacks, bits of ripped off paper, sit on the board. The only word you can see is "HELP" underneath the pin. Hopefully they were nothing important...
+*Two thumbtacks, bits of ripped off paper, sit on the board. The only word you can see is "HELP" underneath the pin. Hopefully they were nothing important...*
 
 ---
 
