@@ -287,6 +287,18 @@ Mother wanted to try something new. Father left town. She says it's a human holi
 
 ---
 
+**November 16th, 2012 - 11:47:23**
+
+They put me in detention. I couldn't answer the question. I wouldn't answer it. It's not fair.
+
+---
+
+**November 15th, 2012 - 15:30:21**
+
+One of my teachers wasn't happy with me. I couldn't answer a question about Humans. Well my head wouldn't let me. They asked why humans are bad. The answer we're taught is because they follow the thing they call God. But what if it isn't true? I don't know any humans. They don't like that.
+
+---
+
 **November 14th, 2012 - 23:10:59**
 
 The nice girl is named Emi. She said we can be friends. I want to be friends. Mother let me go visit her. Emi loves drawing. I want to see her more. Father wasn't happy that I made a friend. He says he'll have her killed as soon as she can. Mother won't let him. Mother told me to enjoy myself.
