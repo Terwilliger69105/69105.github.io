@@ -3,7 +3,7 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 18th, 2021 around 8PM*
+*Last update was on Feb. 19th, 2021 around 5:25PM, one entry added trying to add more.*
 
 ---
 
@@ -284,6 +284,12 @@ I got taken to the outside world today. It was a class trip. We looked at the hu
 **December 25th, 2012 - 09:11:45**
 
 Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
+
+---
+
+**November 17th, 2012 - 18:21:40**
+
+Father hit me for going to detention. He said I have to change or he'll hit me again. He kept screaming the question. It was hard to say the answer. I don't like saying it. People at school are making fun of me. Emi is nice though. She says I'm a good person for it. Mother made fish for dinner again. It was really good. She does it better than Father. There's some red things with it. They taste really good.
 
 ---
 
