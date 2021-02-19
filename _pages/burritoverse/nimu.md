@@ -3,7 +3,7 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 19th, 2021 around 5:25PM, one entry added trying to add more.*
+*Last update was on Feb. 19th, 2021 around 5:35PM.*
 
 ---
 
@@ -143,6 +143,12 @@ Father's men are coming for me. The remainder of them. They stole my things in t
 
 ---
 
+**May 19th, 2020 - 13:11:45**
+
+I found a group of humans in a building. They were friendly. They gave me food. They called it soup. It reminded me of something Mother would make. I liked it. I liked it a lot. It was good. I left them. They seemed happy. I like them.
+
+---
+
 **May 11th, 2020 - 01:18:29**
 
 A man approached me. He held out his hand and gestured for me to take it. I got scared. He came closer to me. I pulled out a weapon. He stood back and held his hands up. He looked scared. I backed away. I ran. I was going to kill him. I'm happy I didn't. I trailed him. He looked sad. He went home to a family. There were three kids and a female. He was talking with his hands. It looked like he was talking about me. I cried.
@@ -215,6 +221,12 @@ Father didn't lie. He won't stop. It burns. Everything burns. Mother says he mak
 
 ---
 
+**December 16th, 2016 - 21:32:11**
+
+Father tried again. I bit him. He howled. Mother laughed. He quit. He said he'll start again soon. In a month or two. At least I get a break. She said she'll help me through it. Fuck him.
+
+---
+
 **December 15th, 2016 - 23:17:54**
 
 Father did it again. He forced himself into mother's womb and my throat. He said he'll do it every week until I turn sixteen and can be bred. Just like he'll do to Mother. I need to leave this home. I need to get myself exiled. For good. I need to kill at least two people. One will be him. One has to be him. He can't live on. I just need somewhere to go. The outside world looks scary.
@@ -230,6 +242,12 @@ Mother won't stop crying. Father was yelling at her. He says she's purposefully 
 **July 15th, 2016 - 21:37:45**
 
 Emi left Kipola today. She couldn't keep living where she was. She says men were harassing her. Something about her father dying. I wish my father would die. But not every parent is like mine. Maybe I don't understand death. She said she hopes we meet again. I hope so. Please Eyes. Guide her to safety. Guide her to a new family. Keep her safe. She's a good being. Let us meet again.
+
+---
+
+**July 15th, 2015 - 06:21:35**
+
+Mother gave me the photo book back. She didn't say anything. Father must be mad. At least I can see my memories. I love my photos with Emi. They're nice. I can't wait to take more. Maybe we can go to Juliana like we used to. It's been so long. I would love to see the lights again.
 
 ---
 
@@ -263,7 +281,13 @@ I got to go to Emi's home for the new year. Her family is nice. Her Mother loves
 
 ---
 
-***July 19th, 2013 - 15:43:11**
+**August 3rd, 2013 - 19:20:18**
+
+I saw another who was hurt. They were scared. I touched them. They were healed. I don't get it. How did I heal them? They looked at me in shock. They said I need to leave fast. I don't get it. They were happy for me. I liked that.
+
+---
+
+**July 19th, 2013 - 15:43:11**
 
 Father didn't want Ichas to teach me about my sword. I'm glad Ichas doesn't care about Father. I wish to be more like Ichas. I love my sword. He says he'll train me three days a week. It's a program to get me away from school. I love it.
 
