@@ -17,6 +17,8 @@ There will be more pages to come as things get smoothed out.
 
 ---
 
-**Update for Feb. 18th, 2021**
+**Update for Feb. 20th, 2021**
+
+Tonight is going to actually run a session, even if I get fucked up I'll do everything I can to stick it out. There are a few mechanics I want to introduce, the design document is being taken with me tonight where I think one or two players are then if they like it I'll be posting it on here too. Thanks for reading this if you do!
 
 ...
