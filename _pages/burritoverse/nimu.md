@@ -311,6 +311,18 @@ Mother wanted to try something new. Father left town. She says it's a human holi
 
 ---
 
+**November 18th, 2012 - 13:18:45**
+
+They asked again. I didn't answer it. They took me to the principal. The principal wasn't happy with me. They asked me if I was too nervous. I lied and said yes. They said they would tell people to quit asking. That was good. They said they would call my parents. I didn't want them to. I wasn't sure what they would say. They told Father that we're making progress. Father seemed happy to hear that. That was good.
+
+---
+
+**November 18th, 2012 - 05:55:21**
+
+Father woke me up really early. He said it's punishment for screwing up. He kept asking me the question. It got easier to answer. I don't want it to be easy to answer. Emi told me that she can't answer it either. She says she doesn't want to be able to answer it. I don't want to be able to answer it. I don't want to get hit. I don't want Mother to get hit. 
+
+---
+
 **November 17th, 2012 - 18:21:40**
 
 Father hit me for going to detention. He said I have to change or he'll hit me again. He kept screaming the question. It was hard to say the answer. I don't like saying it. People at school are making fun of me. Emi is nice though. She says I'm a good person for it. Mother made fish for dinner again. It was really good. She does it better than Father. There's some red things with it. They taste really good.
