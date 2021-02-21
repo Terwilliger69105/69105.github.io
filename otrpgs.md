@@ -11,12 +11,14 @@ Want to know what else I'll GM? **OTRPGs** simply just means "Other Tabletop RPG
 
 ![The Small Mothership Collection](https://i.imgur.com/azowSPPl.jpg)
 
-I found this game at most a couple years ago, one of the last people to ever run me in a game was quite the fan of it and we ran two sessions. I enjoyed the hell out of it, it's extremely simple yet extremely chaotic and may honestly be a game I use to introduce people to tabletop role-play titles due to exactly that.
+I found this game at most a couple years ago, one of the last people to ever run me in a game was quite the fan of it and we ran two sessions. I enjoyed the hell out of it, it's extremely simple yet extremely chaotic, and Mothership may just be a system I use to introduce people to tabletop role-play.
 
-One game is currently set to inactive, the only game I've run, which used to be under the now-dead *SGFS* setup. It revolved around a forced crew, prisioners on the *Prospero's Dream* station for all sorts of reasons ranging from not paying their oxygen tax to smuggling, who was sent off to the asteroid *Ypsilon 14* to do slave labor. Of course that never happened, all but two of the station crew were killed by an alien being who was living in cryostasis on the asteroid and woken up by the mining operation, and the players left off while heading back to *Prospero's Dream* to report their adventures. I am willing to pick it up again, I've been kicking myself for canceling the adventure as it was tons of fun for that little three-hour session, I'd just need the players to tell me they want it again.
+One game is currently set to inactive, the old SGFS game. A forced party, prisioners from the station *Prospero's Dream* (detailed in *A Pound of Flesh*), were sent off to the mining colony on asteroid *Ypsilon 14* as slaves for a month. Of course that didn't go well, after all the mining operation was disturbing a certain alien lifeform who was traveling peacefully in cryostasis until those pesky humans showed up. Not many survived, between the players and NPCs there were a lot of deaths, but they did make it off while destroying the asteroid and killing the alien. Currently everybody who lived is in cryosleep, they're heading back to *Prospero's Dream* to report what happened and try their hand at gaining freedom. I would love to pick this game back up, I kick myself weekly for canceling it as it's in a great spot to come back at any time, but I need to ask the players if they would like to continue it before anything else.
 
-I currently have no plan for starting any other games in this system but I know I'll want to in the coming months. Check this page occasionally as I may update things with a google form for player sign-ups!
+I currently have no plan for starting any other games in this system, if anything I'd love to do a few more sessions with the crew I ran before as I'm still learning the system, but I know I'll want to do something in the coming months. Check this page occasionally, there may be a surprise Google Form for my next adventure I run!
 
 ---
 
 Did I mention that it's going to be bare? Sorry about that.
+
+Thanks for reading!
