@@ -11,14 +11,36 @@ If you're interested in creating a character for the game, [please click here.](
 
 If you're interested in some current game-related lore, [please click here.](/burritoverse/lore/)
 
-The Inactivity timer is currently sitting at **4** days of content which need to be made up for.
+The Inactivity timer is currently sitting at **2** days of content which need to be made up for.
 
 There will be more pages to come as things get smoothed out. 
 
 ---
 
-**Update for Feb. 20th, 2021**
+**Update for Feb. 21st, 2021**
 
-Tonight is going to actually run a session, even if I get fucked up I'll do everything I can to stick it out. There are a few mechanics I want to introduce, the design document is being taken with me tonight where I think one or two players are then if they like it I'll be posting it on here too. Thanks for reading this if you do!
+Last night didn't run all too well, I'm sorry. I meant to have something much more interactive, it was planned to have an encounter with a Sun Knight but skipped, and I was supposed to have a little bit of something for everyone. I should've just taken the hint and quit at 1:30 when everyone started leaving.
 
-...
+Mini time is available, simply the rest of August 11th (Noon start) and all of August 12th, if you want it. I'm going to try and push to run another session next weekend.
+
+I'm not using the BurritoBeans account except for two select post-IRC communities. I'm pretty much scared of everything else so I won't respond to PMs or pings and everything is pretty much muted out until after work on Friday. I do still want to attempt to have people out on Saturday but I'm not going to post it in Discord. PM the alt and I'll try to organize something. 
+
+Contact 69105L#9438 if you need me for anything as I will respond over there.
+
+---
+
+**Weekly Checklist**
+
+1. Make a "Characters" page with the stats and skills of each player for easier reference
+
+2. Rewrite and introduce MDD#8.019
+
+3. Add at least two more tables to Character Creation
+
+4. Update Nimu's Board with at least two entries per-day
+
+5. Update the Kipola page at least once
+
+6. Cover minis for as many players as would like them
+
+7. Run a session

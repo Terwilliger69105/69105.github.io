@@ -3,7 +3,13 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 20th, 2021 around 7:15PM.*
+*Last update was on Feb. 21st, 2021 around 2PM.*
+
+---
+
+**August 11th-B, 2020 - 11:49:21**
+
+I fucked up. The officer doesn't care anymore. He left me a note. I don't know what to do with it. Emily said she wants to show it to them. I guess she can. They've been trying to talk with me. I can barely hear. The one human is trying to leave. Another human is frustrated. I just wanted to save one human but I hurt two more. I don't know what to do anymore. Alex is broken. I tried to calm her down. She was crying in the starfield. She wouldn't stop. Nothing is going well. I'm the one who changed time. It's my fault. What if they can't get fixed? I almost want to turn time back again. I want to re-do this day. But I can't. Things will go off. Our clocks already aren't working. They won't until tomorrow. I'm scared. Help me.
 
 ---
 
@@ -308,6 +314,12 @@ I got taken to the outside world today. It was a class trip. We looked at the hu
 **December 25th, 2012 - 09:11:45**
 
 Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
+
+---
+
+**November 20th, 2012 - 06:11:51**
+
+Mother showed me an old machine we have. They say it can go in bad water and make it good. She said my grandmother made it. She says I should learn how to make them. She put it with the Eyes. She said I can get it whenever I want it. It's cool. Apparently there is one above us in the Human world. I want to see it some day. It would be cool.
 
 ---
 

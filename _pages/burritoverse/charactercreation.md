@@ -3,6 +3,8 @@ title: "Burritoverse Character Creation"
 permalink: /burritoverse/ccreation/
 ---
 
+*Last update was god knows when.*
+
 ## Character Creation - Role
 
 *"I don't much care for having static roles in anything outsie small one-off games, I feel you should be able to build whatever you want."*
