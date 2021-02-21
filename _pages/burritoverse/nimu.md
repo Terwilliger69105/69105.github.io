@@ -311,6 +311,12 @@ Mother wanted to try something new. Father left town. She says it's a human holi
 
 ---
 
+**November 19th, 2012 - 18:21:10**
+
+Emi and I went to the park. We saw some funny animals. We climbed some trees. It was really fun. We went to dinner. Dinner was good. We got these things called burgers. They're human I guess. Humans make good food. The fish Mother made was also Human.
+
+---
+
 **November 18th, 2012 - 13:18:45**
 
 They asked again. I didn't answer it. They took me to the principal. The principal wasn't happy with me. They asked me if I was too nervous. I lied and said yes. They said they would tell people to quit asking. That was good. They said they would call my parents. I didn't want them to. I wasn't sure what they would say. They told Father that we're making progress. Father seemed happy to hear that. That was good.
