@@ -9,7 +9,7 @@ Want to know what else I'll GM? **OTRPGs** simply just means "Other Tabletop RPG
 
 **Mothership**
 
-![The Small Mothership Collection](https://i.imgur.com/azowSPP.jpg)
+![The Small Mothership Collection](https://i.imgur.com/azowSPPl.jpg)
 
 I found this game at most a couple years ago, one of the last people to ever run me in a game was quite the fan of it and we ran two sessions. I enjoyed the hell out of it, it's extremely simple yet extremely chaotic and may honestly be a game I use to introduce people to tabletop role-play titles due to exactly that.
 
