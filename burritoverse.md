@@ -27,6 +27,27 @@ Contact 69105L#9438 if you need me for anything as I will respond over there.
 
 ---
 
+**Mini Schedule**
+
+Minis will take pick up at the end of last session, noon on August 11-B, 2020, until the end of August 12th, 2020.
+
+Day       | Time   | Player
+----------|--------|-------
+Sunday    | Night  | Yury (Half)
+Monday    | Day    | 
+Monday    | Night  | Hugo
+Tuesday   | Day    | 
+Tuesday   | Night  | 
+Wednesday | Day    | 
+Wednesday | Night  | Mosi
+Thursday  | Day    | 
+Thursday  | Night  | Ray
+Friday    | Day    | 
+Friday    | Night  | 
+Saturday  | Varies | 
+
+---
+
 **Weekly Checklist**
 
 1. Make a "Characters" page with the stats and skills of each player for easier reference
