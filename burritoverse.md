@@ -33,18 +33,18 @@ Contact 69105L#9438 if you need me for anything as I will respond over there.
 
 Day       | Time   | Player
 ----------|--------|-------
-Sunday    | Night  | -
-Monday    | Day    | -
+Sunday    | Night  | 
+Monday    | Day    | 
 Monday    | Night  | Hugo
-Tuesday   | Day    | -
-Tuesday   | Night  | -
-Wednesday | Day    | -
+Tuesday   | Day    | 
+Tuesday   | Night  | 
+Wednesday | Day    | 
 Wednesday | Night  | Mosi
-Thursday  | Day    | -
+Thursday  | Day    | 
 Thursday  | Night  | Ray
-Friday    | Day    | - 
-Friday    | Night  | -
-Saturday  | Varies | -
+Friday    | Day    | 
+Friday    | Night  | 
+Saturday  | Varies | 
 
 ---
 
