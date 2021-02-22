@@ -7,13 +7,11 @@ permalink: /burritoverse/
 
 This is the hub for Andrew's *Burritoverse* series of Cyberpunk tabletop role-playing games. We're coming up on our eighth year running, it's currently the eighth mainline game, and we can't wait to keep it going for another eight!
 
-If you're interested in creating a character for the game, [please click here.](/burritoverse/ccreation/)
+[Interested in making a character or viewing things like gear tables?](/burritoverse/ccreation/)
 
-If you're interested in some current game-related lore, [please click here.](/burritoverse/lore/)
+[Interested in some running lore?](/burritoverse/lore/)
 
-The Inactivity timer is currently sitting at **2** days of content which need to be made up for.
-
-There will be more pages to come as things get smoothed out. 
+[Looking to pick up a job or two?](/burritoverse/jobs/)
 
 ---
 
@@ -33,7 +31,7 @@ Contact 69105L#9438 if you need me for anything as I will respond over there.
 
 1. Make a "Characters" page with the stats and skills of each player for easier reference
 
-2. Rewrite and introduce MDD#8.019
+2. ~~Rewrite and introduce MDD#8.019~~Partially complete, MDD#8.019D has been created and I just need to finish a Public variant.
 
 3. Add at least two more tables to Character Creation
 
