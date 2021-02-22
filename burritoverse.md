@@ -46,6 +46,8 @@ Friday    | Day    | -
 Friday    | Night  | -
 Saturday  | Varies | -
 
+---
+
 **Weekly Checklist**
 
 1. Make a "Characters" page with the stats and skills of each player for easier reference
