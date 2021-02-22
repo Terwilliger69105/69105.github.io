@@ -5,7 +5,7 @@ permalink: /burritoverse/
 
 ## Welcome to the Burritoverse!
 
-This is the hub for Andrew's *Burritoverse* series of Cyberpunk tabletop role-playing games. We're coming up on our eighth year running, it's currently the eighth mainline game, and we can't wait to keep it going for another eight!
+This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-playing games. We're coming up on the eighth year running, it's currently the eighth mainline game, and hopefully we can make it another eight!
 
 [Interested in making a character or viewing things like gear tables?](/burritoverse/ccreation/)
 
