@@ -17,13 +17,13 @@ This is the hub for Andrew's *Burritoverse* series of Cyberpunk tabletop role-pl
 
 **Update for Feb. 21st, 2021**
 
-Last night didn't run all too well, I'm sorry. I meant to have something much more interactive, it was planned to have an encounter with a Sun Knight but skipped, and I was supposed to have a little bit of something for everyone. I should've just taken the hint and quit at 1:30 when everyone started leaving.
+Last night didn't run all too well, I'm sorry. I meant to have something much more interactive, it was planned to have an encounter with a Sun Knight but skipped, and I was supposed to have a little bit of something for everyone.
 
 Mini time is available, simply the rest of August 11th (Noon start) and all of August 12th, if you want it. I'm going to try and push to run another session next weekend.
 
-I'm not using the BurritoBeans account except for two select post-IRC communities. I'm pretty much scared of everything else so I won't respond to PMs or pings and everything is pretty much muted out until after work on Friday. I do still want to attempt to have people out on Saturday but I'm not going to post it in Discord. PM the alt and I'll try to organize something. 
+I'm not using the BurritoBeans account except for two select post-IRC communities. I won't respond to PMs or pings, I'm honestly scared of a few places, and stuff is pretty much muted out for a few days. Original plan was until Friday but if I can build up confidence then maybe Wednesday. I don't know. 
 
-Contact 69105L#9438 if you need me for anything as I will respond over there.
+I do still want to attempt to have people out on Saturday but I'm not going to post it in Discord. PM the alt and I'll try to organize something. Contact 69105L#9438 if you need me for anything as I will respond over there.
 
 ---
 
