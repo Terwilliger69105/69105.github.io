@@ -15,15 +15,15 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 ---
 
-**Update for Feb. 21st, 2021**
+**Update for Feb. 22nd, 2021**
 
-Last night didn't run all too well, I'm sorry. I meant to have something much more interactive, it was planned to have an encounter with a Sun Knight but skipped, and I was supposed to have a little bit of something for everyone.
+Last night actually did run well. I can say with a decent amount of confidence that the mini went well, I have pretty much no regrets and actually enjoyed what I put out for once, and damn does it feel good. On that subject yes minis are still open, please poke me on Discord if you want one.
 
-Mini time is available, simply the rest of August 11th (Noon start) and all of August 12th, if you want it. I'm going to try and push to run another session next weekend.
+My entire plan for tonight is to just run as much of a mini as I can (if anyone wants one) and do some light writing. Nimu's Board will get a few more points, I need to add the jobs which would appear on the Job Board when the 12th hits, and MDD#8.019D needs to become 8.019DP so I can let others check it. 
 
-I'm not using the BurritoBeans account except for two select post-IRC communities. I won't respond to PMs or pings, I'm honestly scared of a few places, and stuff is pretty much muted out for a few days. Original plan was until Friday but if I can build up confidence then maybe Wednesday. I don't know. 
+I'm still not using the BurritoBeans account except for two select post-IRC communities. If things stay well then I'll probably go back to it Wednesday? I do still want to attempt to have people out on Saturday but I'm not going to post it in Discord. PM the alt and I'll try to organize something. 
 
-I do still want to attempt to have people out on Saturday but I'm not going to post it in Discord. PM the alt and I'll try to organize something. Contact 69105L#9438 if you need me for anything as I will respond over there.
+Contact 69105L#9438 if you need me for anything as I will respond over there.
 
 ---
 
