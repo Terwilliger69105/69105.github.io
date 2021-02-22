@@ -1,7 +1,9 @@
-﻿---
+---
 title: "The Job Board"
 permalink: /burritoverse/jobs/
 ---
+
+**The Job Board**
 
 Looking for something to do? Molly, your neighbor and local fixer, would be glad to help! This board is posted just on the inside of her room, always unlocked for you to come check whenever you would like, and full of little side-quests to check out!
 
