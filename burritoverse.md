@@ -46,8 +46,6 @@ Friday    | Day    |
 Friday    | Night  | 
 Saturday  | Varies | 
 
-*Time - Day means between 10AM and 2:15PM, Time - Night means Midnight(:45) start.*
-
 ---
 
 **Weekly Checklist**
