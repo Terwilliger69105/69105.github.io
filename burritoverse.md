@@ -29,7 +29,7 @@ Contact 69105L#9438 if you need me for anything as I will respond over there.
 
 **Mini Schedule**
 
-*Time - Day means between 10AM and 2:15PM, Time - Night means Midnight(:45) start.*
+Minis will take pick up at the end of last session, noon on August 11-B, 2020, until the end of August 12th, 2020.
 
 Day       | Time   | Player
 ----------|--------|-------
@@ -45,6 +45,8 @@ Thursday  | Night  | Ray
 Friday    | Day    | 
 Friday    | Night  | 
 Saturday  | Varies | 
+
+*Time - Day means between 10AM and 2:15PM, Time - Night means Midnight(:45) start.*
 
 ---
 
