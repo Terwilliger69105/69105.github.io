@@ -32,7 +32,7 @@ Contact 69105L#9438 if you need me for anything as I will respond over there.
 *Time - Day means between 10AM and 2:15PM, Time - Night means Midnight(:45) start.*
 
 Day       | Time   | Player
----------------------------
+----------|--------|-------
 Sunday    | Night  | -
 Monday    | Day    | -
 Monday    | Night  | Hugo
