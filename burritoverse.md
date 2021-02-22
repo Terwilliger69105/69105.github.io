@@ -27,6 +27,25 @@ Contact 69105L#9438 if you need me for anything as I will respond over there.
 
 ---
 
+**Mini Schedule**
+
+*Time - Day means between 10AM and 2:15PM, Time - Night means Midnight(:45) start.*
+
+Day       | Time   | Player
+---------------------------
+Sunday    | Night  | -
+Monday    | Day    | -
+Monday    | Night  | Hugo
+Tuesday   | Day    | -
+Tuesday   | Night  | -
+Wednesday | Day    | -
+Wednesday | Night  | Mosi
+Thursday  | Day    | -
+Thursday  | Night  | Ray
+Friday    | Day    | - 
+Friday    | Night  | -
+Saturday  | Varies | -
+
 **Weekly Checklist**
 
 1. Make a "Characters" page with the stats and skills of each player for easier reference
