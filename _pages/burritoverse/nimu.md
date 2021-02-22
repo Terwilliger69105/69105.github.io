@@ -3,7 +3,13 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 21st, 2021 around 2PM.*
+*Last update was on Feb. 22nd, 2021 around 1:30PM. Added August 11th-B, 2020 - 20:47:19 && Febururay 22nd, 2019 - 15:31:00 && November 21st, 2012 - 21:03:19 && September 1st, 2016 - 15:20:51.*
+
+---
+
+**August 11th-B, 2020 - 20:47:19**
+
+Emi and I figured things out. The officer does care. She's been talking with him. He's in Seattle. The note said that apparently. It said he was going to help the locals there. She says he says he's going to bring some gifts back. He says he needs to pay us back. That's nice of him. She asked about his research. He said he'll do it better when he comes back. She says he'll be back on Thursday. Caramal is missing Yury. I hope they're happy when they meet back up. He took Alex on a job. Hopefully they're fine. It's nice having her hang out with someone new. She likes her sword. I think using her sword will help her. Emi says it will. I want to ask her about tomatoes. Maybe she likes them. Food sounds nice.
 
 ---
 
@@ -203,6 +209,12 @@ Father did it. He put Mother in a stasis vat. The kind that breeders use. He won
 
 ---
 
+**Febururay 22nd, 2019 - 15:31:00**
+
+I got the vision again. I asked the Eyes about it. They say I'll be in the Human world soon enough. They say I'll help a group of Humans out. They say the Humans wil help me out, too. I'm excited. They tell me not all Humans will be nice. They say some will try to hurt me. Father's Human workers. I asked the Eyes if I'll be okay. They say I will. That's good.
+
+---
+
 **February 21st, 2019 - 09:32:45**
 
 I keep getting visions of a city. I don't know what they mean. I'm standing guarding a group of humans. There's a large man in a metal suit. He tries to shoot me. I decapitate him. I don't get it.
@@ -242,6 +254,12 @@ Father did it again. He forced himself into mother's womb and my throat. He said
 **December 14th, 2016 - 01:38:22**
 
 Mother won't stop crying. Father was yelling at her. He says she's purposefully stopping his pregnancy attempts. He grabbed me and dragged me to their room. He made me watch him breed her. He put himself in my mouth. Mother screamed out. I gagged. The taste was disgusting. He hit her. He said I have to learn for when I turn sixteen. He pulled out a gun to threaten us. She wanted him to kill us. He didn't. I wish he did. That would have got him killed. Bitch.
+
+---
+
+**September 1st, 2016 - 15:20:51**
+
+There was a box on my table. It has Japanese writing. Ichas left it for me. It's from Humans. It's called a Dataman. You put these chip things inside of it. It plays music back. The chips are cool. They have neat art. I've never heard Human music outside of class. They play really bad music in Human Studies. This is better. Some of it has that instrument he plays for me. Shamisen? I don't remember too well. Some of it sounds really old. Some sounds really new. I love it. Mother was happy to see me with it. Father wasn't. Father is never happy.
 
 ---
 
@@ -314,6 +332,12 @@ I got taken to the outside world today. It was a class trip. We looked at the hu
 **December 25th, 2012 - 09:11:45**
 
 Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
+
+---
+
+**November 21st, 2012 - 21:03:19**
+
+School was fun today. Everybody but Emi and I weren't paying attention to the Human Studies course. They all failed their tests. They hoped everyone failed for a curve. We passed. They were mad. It was funny. The teacher said she's proud of me. I found out how to answer the question. I can lie through it. Mother told me not to lie. I won't lie to anyone. I will lie to that question. They smile at me now. They call me a good student now. Ha.
 
 ---
 
