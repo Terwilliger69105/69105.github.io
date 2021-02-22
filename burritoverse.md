@@ -33,7 +33,7 @@ Minis will take pick up at the end of last session, noon on August 11-B, 2020, u
 
 Day       | Time   | Player
 ----------|--------|-------
-Sunday    | Night  | 
+Sunday    | Night  | Yury (Half)
 Monday    | Day    | 
 Monday    | Night  | Hugo
 Tuesday   | Day    | 
