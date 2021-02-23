@@ -37,7 +37,7 @@ Sunday    | Night  | Yury (Half)
 Monday    | Day    | 
 Monday    | Night  | Hugo
 Tuesday   | Day    | 
-Tuesday   | Night  | 
+Tuesday   | Night  | Hugo/Yury Pt. 2
 Wednesday | Day    | 
 Wednesday | Night  | Mosi
 Thursday  | Day    | 
@@ -52,7 +52,7 @@ Saturday  | Varies |
 
 1. Make a "Characters" page with the stats and skills of each player for easier reference
 
-2. ~~Rewrite and introduce MDD#8.019~~Partially complete, MDD#8.019D has been created and I just need to finish a Public variant.
+2. ~~Rewrite and introduce MDD#8.019~~Complete, MDD#8.019D created and public variant posted. Feedback received from 6 players, two Seltzer Boys/four Birds, and will be implementing.
 
 3. Add at least two more tables to Character Creation
 
