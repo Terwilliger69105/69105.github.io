@@ -37,11 +37,11 @@ Monday    | Night  | Hugo
 Tuesday   | Day    | 
 Tuesday   | Night  | Hugo/Yury Pt. 2
 Wednesday | Day    | 
-Wednesday | Night  | Mosi
+Wednesday | Night  | 
 Thursday  | Day    | 
 Thursday  | Night  | Ray
 Friday    | Day    | 
-Friday    | Night  | 
+Friday    | Night  | Mosi
 Saturday  | Varies | 
 
 ---
