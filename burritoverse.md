@@ -15,15 +15,13 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 ---
 
-**Update for Feb. 22nd, 2021**
+**Update for Feb. 23rd, 2021**
 
-Last night actually did run well. I can say with a decent amount of confidence that the mini went well, I have pretty much no regrets and actually enjoyed what I put out for once, and damn does it feel good. On that subject yes minis are still open, please poke me on Discord if you want one.
+I re-thought my process for running stuff and damn it feels nice. Two nights of minis ran well, I'm not sitting here worried and scared of tonight, and it isn't a "I hope we can get a third" because I know we'll get a third, a foruth, and a fifth.
 
-My entire plan for tonight is to just run as much of a mini as I can (if anyone wants one) and do some light writing. Nimu's Board will get a few more points, I need to add the jobs which would appear on the Job Board when the 12th hits, and MDD#8.019D needs to become 8.019DP so I can let others check it. 
+The Tonight plan is going to simply enough focus on two points, implementing the stuff from MDD#8.019D and adding to Nimu's Board. Thanks to those who responded to the MDD, it means a ton that you'd take a few minutes to read some writing I put down, and I hope that the expanded (full) mechanic doesn't let you down. Auras won't get much of a page, to be honest I don't think they need more than a quick mention on the Characters page (which is in-progress at the moment) but Corruption will get its own section that way things are explained.
 
-I'm still not using the BurritoBeans account except for two select post-IRC communities. If things stay well then I'll probably go back to it Wednesday? I do still want to attempt to have people out on Saturday but I'm not going to post it in Discord. PM the alt and I'll try to organize something. 
-
-Contact 69105L#9438 if you need me for anything as I will respond over there.
+I'm switching back to the BurritoBeans account on Wednesday, I smoothed out a few of the worries in other communities and having the game run well lets me have enough confidence to actually be around again. I do still want to attempt to go for pancakes/have people out on Saturday ~~but I'm not going to post it in Discord.~~ and I'll be posting about it to the usual places. No point hiding it from Discord, at this point I'd rather it be out there. Huge thanks to the few of you who've been helping me out.
 
 ---
 
@@ -50,9 +48,9 @@ Saturday  | Varies |
 
 **Weekly Checklist**
 
-1. Make a "Characters" page with the stats and skills of each player for easier reference
+1. ~~Make a "Characters" page with the stats and skills of each player for easier reference~~ Almost completed, I wanted to have it out today (Feb. 23rd) but it's being put aside until 8.019D pages are on-line.
 
-2. ~~Rewrite and introduce MDD#8.019~~Complete, MDD#8.019D created and public variant posted. Feedback received from 6 players, two Seltzer Boys/four Birds, and will be implementing.
+2. ~~Rewrite and introduce MDD#8.019~~ Complete, MDD#8.019D created, public version approved through by 11 players, and being implemented as-of now (Feb. 23rd)
 
 3. Add at least two more tables to Character Creation
 
