@@ -36,8 +36,8 @@ Monday    | Day    | N/A
 Monday    | Night  | Hugo (Half)
 Tuesday   | Day    | N/A
 Tuesday   | Night  | Hugo/Yury Pt. 2
-Wednesday | Day    | 
-Wednesday | Night  | 
+Wednesday | Day    | Hugo Finish
+Wednesday | Night  | Yury Finish
 Thursday  | Day    | 
 Thursday  | Night  | Ray
 Friday    | Day    | 
