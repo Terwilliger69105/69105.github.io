@@ -35,10 +35,10 @@ Looking for something to do? Molly, your neighbor and local fixer, would be glad
 
 **Carmageddon:** Buzzsaw is a simple man. Buzzsaw loves cars and Buzzsaw loves killing shit. Mixing the two is always good fun. Do you have any videos of cars killing shit for Buzzsaw? He'd love to pay. Driver PoV is greatly appreciated.
 
-**Yakuza Troubles:** A girl living in the Nichiban Mall, Hina Minamoto, is having some issues. Apparently her father owed the Night City Yakuza a degree of cash, didn't tell anyone in his family, and was killed the other day in a traffic collision. The debt got passed down to her, his eldest child, and now they're harassing her. She can't pay in cash for helping get rid of the criminals, she already struggles to pay rent and get food for her two sisters, but she says she has some high-value techstash locations which she'd be glad to pass along.
-
 ---
 
 **Completed Jobs**
+
+**Yakuza Troubles:** ~~A girl living in the Nichiban Mall, Hina Minamoto, is having some issues. Apparently her father owed the Night City Yakuza a degree of cash, didn't tell anyone in his family, and was killed the other day in a traffic collision. The debt got passed down to her, his eldest child, and now they're harassing her. She can't pay in cash for helping get rid of the criminals, she already struggles to pay rent and get food for her two sisters, but she says she has some high-value techstash locations which she'd be glad to pass along.~~ Completed by Hugo, Yury, Yvonne, and Nimu around ~1:30PM on August 12th, 2020. Debt paid off, shitty Yakuza acting as thugs instead of police removed from floor. Contacts acquired, techstashes acquired.
 
 **Mob Ties:** ~~Giuseppe Slick, a low-life mobster who's trying to take over the family business, needs to be taken out. He's usually hanging out on the patio of Beppo's Trattoria in Little Italy, a few of his chromed-out goons helping him to harass various women and pick fights with men who seem weak. There's 2,500eb on his head, each goon is an additional 500eb, and you can keep whatever was on them. Just make sure that the body isn't recognizable anymore.~~ Completed by Yury and Alex at ~9:15PM on August 11-B, 2020. Two goons killed plus main man, filmed by bystanders (no evidence of where shots were coming from, just focusing on people dying and vomiting everywhere) for proof. Paid 3,500eb.
