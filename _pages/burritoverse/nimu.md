@@ -3,9 +3,15 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 22nd, 2021 around 1:30PM.*
+*Last update was on Feb. 24th, 2021 around 8:00PM. Currently one day (2-3 entries) behind.*
 
-*Added August 11th-B, 2020 - 20:47:19 && Febururay 22nd, 2019 - 15:31:00 && November 21st, 2012 - 21:03:19 && September 1st, 2016 - 15:20:51.*
+*Added August 12th, 2020 - 03:11:22 && November 22nd, 2012 - 23:59:07**
+
+---
+
+**August 12th, 2020 - 03:11:21**
+
+Alex and I joined Yzin. She went to feed. She found five men harassing some girls. We tailed them. They tried to put the girls in a bad situation. We struck. Yzin ate three of the men. Alex split one in half. I gutted the last. It felt good. The girls thanked us. They liked Yzin's clothes. I like her clothes too. She says Hugo helped pick them out. I like her gloves. If they were lighter I'd get similar. We went to Corrigan's Market. I bought ramen. It was good. 
 
 ---
 
@@ -334,6 +340,12 @@ I got taken to the outside world today. It was a class trip. We looked at the hu
 **December 25th, 2012 - 09:11:45**
 
 Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
+
+---
+
+**November 22nd, 2012 - 23:59:07**
+
+Emi and I went to the Edge. It's strange. Watching Humans but them not knowing. They looked happy. They could go around and do whatever. They had a trading post. It was really cool. We almost went out. Emi said we shouldn't though. There was nothing stopping us. We'll go some other time. 
 
 ---
 
