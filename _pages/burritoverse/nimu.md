@@ -5,7 +5,7 @@ permalink: /burritoverse/nimu/
 
 *Last update was on Feb. 24th, 2021 around 8:00PM. Currently one day (2-3 entries) behind.*
 
-*Added August 12th, 2020 - 03:11:22 && November 22nd, 2012 - 23:59:07**
+*Added August 12th, 2020 - 03:11:22 && November 22nd, 2012 - 23:59:07*
 
 ---
 
