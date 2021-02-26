@@ -15,13 +15,9 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 ---
 
-**Update for Feb. 23rd, 2021**
+**Update for Feb. 26th, 2021**
 
-I re-thought my process for running stuff and damn it feels nice. Two nights of minis ran well, I'm not sitting here worried and scared of tonight, and it isn't a "I hope we can get a third" because I know we'll get a third, a foruth, and a fifth.
-
-The Tonight plan is going to simply enough focus on two points, implementing the stuff from MDD#8.019D and adding to Nimu's Board. Thanks to those who responded to the MDD, it means a ton that you'd take a few minutes to read some writing I put down, and I hope that the expanded (full) mechanic doesn't let you down. Auras won't get much of a page, to be honest I don't think they need more than a quick mention on the Characters page (which is in-progress at the moment) but Corruption will get its own section that way things are explained.
-
-I'm switching back to the BurritoBeans account on Wednesday, I smoothed out a few of the worries in other communities and having the game run well lets me have enough confidence to actually be around again. I do still want to attempt to go for pancakes/have people out on Saturday ~~but I'm not going to post it in Discord.~~ and I'll be posting about it to the usual places. No point hiding it from Discord, at this point I'd rather it be out there. Huge thanks to the few of you who've been helping me out.
+bacon
 
 ---
 
@@ -52,11 +48,11 @@ Saturday  | Varies |
 
 2. ~~Rewrite and introduce MDD#8.019~~ Complete, MDD#8.019D created, public version approved through by 11 players, and being implemented as-of now (Feb. 23rd)
 
-3. Add at least two more tables to Character Creation
+3. ~~Add at least two more tables to Character Creation~~ Waiting on Jenna
 
-4. Update Nimu's Board with at least two entries per-day
+4. ~~Update Nimu's Board with at least two entries per-day~~ Failed two days but that's why we have inactivity timer
 
-5. Update the Kipola page at least once
+5. ~~Update the Kipola page at least once~~ Waiting on Jenna
 
 6. Cover minis for as many players as would like them
 
