@@ -15,9 +15,25 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 ---
 
-**Update for Feb. 26th, 2021**
+**Update for Feb. 28th, 2021**
 
-bacon
+Session flopped but I have an alternative solution that way things can keep moving \o/
+
+Simply enough it goes a little something like this:
+
+*You've seen that getting near the Corporate Circle is fucking people up. So you're going to fix it. Lance gave you all the gear he thinks you'll need to be comfortable, some nice large-caliber rifles and Seburo HAR-50 rifles loaded with tungsten penetrators and SEAL-spec Wardog ACPAs, and the AV ride in was nice.*
+
+*It's too bad that you won't get to use any of it.*
+
+*The center, where the fountain and statue of Richard Night once stood, is a crater about half a mile wide. A massive metal pole, about thirty feet high and twelve feet in diameter, stands proudly from the center. Two Sun Knights, their usual black and gold armor, and some mechsuit-type ACPA are waiting for you. You're surrounded by about eight hundred people, citizens who got a little too curious and are currently being "converted" to "holiness" by the Knights. You can feel what they feel, a strong pain in your mind alognside a voice telling you to listen to the "Holy Ones" in front of you.*
+
+*The Knights beckon you forward through your mind, something filled with nothing but pain from the presence, and you follow. Distance teams may want to just fire on these guys, after all they're your targets, but pulling the trigger is impossible. You're stuck.*
+
+*"Welcome, Children. We see you've brought the little devils with you, that's so cute. It's too bad we plan on taking them away from you. Best us mentally and we'll let you all go free, fail our task and you'll have to accept His word and see the light."*
+
+*They back away from you. Your vision starts to fade as they reach the pole, no matter how far away from them you are. Once they touch it you black out. Nimu's voice comes into your head, simply saying the words "We'll fight the Knights, stay strong and get out!" before you seemingly wake up in a dark cemetery...*
+
+Once you complete that segment, if you do a mini, you may cover a mini-session for the entirety of August 13th. Next session will be the 14th, next minis will be the 15th, then the 16th session comes up where we should have a whole lot of development for going to the Crystal Palace.
 
 ---
 
@@ -44,16 +60,4 @@ Saturday  | Varies |
 
 **Weekly Checklist**
 
-1. ~~Make a "Characters" page with the stats and skills of each player for easier reference~~ Almost completed, I wanted to have it out today (Feb. 23rd) but it's being put aside until 8.019D pages are on-line.
-
-2. ~~Rewrite and introduce MDD#8.019~~ Complete, MDD#8.019D created, public version approved through by 11 players, and being implemented as-of now (Feb. 23rd)
-
-3. ~~Add at least two more tables to Character Creation~~ Waiting on Jenna
-
-4. ~~Update Nimu's Board with at least two entries per-day~~ Failed two days but that's why we have inactivity timer
-
-5. ~~Update the Kipola page at least once~~ Waiting on Jenna
-
-6. Cover minis for as many players as would like them
-
-7. Run a session
+TBD!
