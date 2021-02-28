@@ -27,17 +27,17 @@ Minis will take pick up at the end of last session, noon on August 11-B, 2020, u
 
 Day       | Time   | Player
 ----------|--------|-------
-Sunday    | Night  | Yury (Half)
-Monday    | Day    | N/A
-Monday    | Night  | Hugo (Half)
-Tuesday   | Day    | N/A
-Tuesday   | Night  | Hugo/Yury Pt. 2
-Wednesday | Day    | Hugo Finish
-Wednesday | Night  | Yury Finish
+Sunday    | Night  | 
+Monday    | Day    | 
+Monday    | Night  | 
+Tuesday   | Day    | 
+Tuesday   | Night  | 
+Wednesday | Day    | 
+Wednesday | Night  | 
 Thursday  | Day    | 
-Thursday  | Night  | Ray
+Thursday  | Night  | 
 Friday    | Day    | 
-Friday    | Night  | Mosi
+Friday    | Night  | 
 Saturday  | Varies | 
 
 ---
