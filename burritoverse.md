@@ -66,4 +66,12 @@ Saturday  | Varies |
 
 **Weekly Checklist**
 
-TBD!
+1. Smooth out some of the writing on the site
+
+2. Add August 13th jobs to the Job Board
+
+3. Carry-overs from last week (Add one page to Kipola, work on Character Creation page)
+
+4. Make up for Nimu's Board being nine days inactive
+
+5. Run minis and session
