@@ -5,13 +5,27 @@ permalink: /burritoverse/jobs/
 
 **The Job Board**
 
-Looking for something to do? Molly, your neighbor and local fixer, would be glad to help! This board is posted just on the inside of her room, always unlocked for you to come check whenever you would like, and full of little side-quests to check out!
+Looking for something to do? Molly, your neighbor and local fixer, would be glad to help! This board is posted just on the inside of her room, always unlocked for you to come check whenever you would like, and full of little side-quests to check out! Most jobs are placed up by her, the DarkTerm™ inside her room spitting things out from fax occasionally, but she'll gladly let anyone else put their own things up.
+
+---
+
+**Jobs open on August 13th, 2020**
+
+**All jobs not labeled as completed from below!**
+
+**Drug Runners:** Nomads are the ones usually contracted when it comes to moving a decent amount of supply outside the city. It's too bad damn near every family is in a wrecked state because their aces went to "fix that damn rod in Corporate Center and get some respect" which ended up resulting in their demise or just needing serious medical attention. So, would you be willing to move a crate of product for the Domers? They'll pay you half and half, goods and cash, for your services.
+
+**Wrecking Crew:** Way back, when Coronado City was more than just slums, crime, black markets, and corporate factories, some bank made a tower in the middle of everything. They had decent intentions, spurring a "new downtown" area like Downtown Night City, but the tower was such an eyesore that nobody wanted to build near it. Fifteen years later Euclid's Demolitions, a ma-and-pop set of wreckers who now owns the land, wants to tear it down and convert it into something actually useful. Want to blow shit up? Make sure to bring a gun in case any gangers or crackheads aren't fans of your work!
+
+**Testing the Exit:** Nimu has a little favor to ask. She thinks she has a good way to get between Chicago and Night City, there's a fresh exit on the north side of Isadore Island in C2 (Lake Park) which *should* only work with "whitelisted" people(s). Want to ride it there and back? She has 10eb and a couple of cool little metal cases for anyone who does it to pick from.
+
+**Day Trip:** The Intercontinental Maglev, now open to Japan again after delays because Arasaka trials, is a really cool resource. Simply put you can get on at midnight, be in Japan by 6AM, screw around until Midnight, and be back in Night City by 6:30AM the next day. Juan, the owner of the Taco Hut, really likes a certain Mitsubishi toaster which can be bought in J-Town for about 1,500eb or on mainland Japan for 200eb. He'll pay for your ticket, it'll still be cheaper than buying form J-Town, so do you feel like helping him out? 
+
+*Note: This job has to be taken when you start your mini for the 13th as you'll wake up at 10AM. You'll be departing on the Noon train which arrives in Japan at 6PM. If you want to stay in Japan longer than 6hrs, or just miss the Midnight train back, your character will automatically be placed on the 6AM train for the 14th and arrive in Night City during our next session, taking place on the 14th, at noon.*
 
 ---
 
 **Jobs open on August 12th, 2020**
-
-**All jobs not labeled as completed from August 11-B, 2020 carry forward to the 12th!**
 
 **Booster Blitz:** One of the Boostergangs, the Slippery Bitches in A2, have a challenge for anyone willing. Simply enough come by their turf, the North entrance of the Uptown Mall once the businesses close down and Slaughterhouse goes home, and just try to beat their new 'borgs. If you can get out alive, something they're confident you won't be doing, then they'll pass you 500eb and a shiny new prototype gun that they found off some sad Arasaka fuck.
 
