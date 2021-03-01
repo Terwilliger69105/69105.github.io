@@ -27,41 +27,14 @@ It's quite rare but heavier Auras may come into play. These still won't do too m
 
 Corruption is what you get for specific interaction with your Kipolan(s). It's a development on the concept of Auras, targeted effects which increment in "tiers" (Z = Lowest, A = Highest) that feed on your Humanity level in exchange for increasingly greater physical and mental reconstruction in-line with the values of the specific Kipolan corrupting you.
 
-The one major downside of corruption, and the thing that you have to keep in mind, is that it feeds off of your Humanity value in the same way as Cybernetics. The higher your tier goes, the lower cap of Humanity you're allowed. If you're ever worried, just remember that you'll be allowed 75 Humanity value until you pass Tier M (13th level) in the order when things start getting heavier.
+You probably want to know the bad side first, right? Well the major drawback of Corruption is the more corrupt you are, the less Humanity you can have. Makes sense, right? After all you are turning "Kipolan" from it gathering up. For every five tiers of corruption you gain, the first tier being Tier Z, your max Humanity number is lowered by 10. This means that, even if I have EMP10 with no Cybernetics, my stock 100 Humanity would be lowered to 90 and my EMP would become 9/10 once I hit Tier V. Only your highest corruption tier among all values is counted so don't worry, having five Tier Vs means that your Humanity Cap only has a -10 modifier and not -50.
 
-Corruption tiers are gained, similarly to leveling a skill general role-playing game, by interacting with the source of it. Of course different interactions with Kipolans give different amounts of corruption, just hanging around with the girl(s) for the night may only be 1/16th of a tier which only actually counts between Tier Z and Tier U, while indulgent activities like joining Yvonne for feeding or helping Casey wire up new robots could give up to two whole tiers depending on where you are.
+Now, onto the good side of things. Depending on who you're being "corrupted" by, as-mentioned above, you'll gain things in-line with their abilities. These "things" start quite small, the first tiers being small skill increases and minor stat boosts, but get larger over time. You'll find that you may gain the ability to speak Kipolan, are able to use natural weapon concealment for a favorite item, have a sense heightened past what's possible as a natural human, or go higher than usually possibile in a stat. Physical modification may happen too with things like scales, horns, claws, void-black features, and other various things appearing on your body.
 
-In both major parties, the Seltzer Boys and the Birds, corruption may never go higher than the "C" Tier. The Kipolans don't want you to lose your sense of self, they may not even want you to be corrupted in the first place out of love or case, so they'll quite gladly restrict their influence on your body.
+Knowing what the tiers do, how do I gain them? Similarly to leveling a skill general role-playing game, by interacting with the source of it. Of course different interactions with Kipolans give different amounts of corruption, just hanging around with the girl(s) for the night may only be 1/16th of a tier which only actually counts between Tier Z and Tier U, while indulgent activities like joining Yvonne for feeding or helping Casey wire up new robots could give up to two whole tiers depending on where you are. 
 
----
+There are some restrictions with gaining tiers. In both major parties, the Seltzer Boys and the Birds, corruption may never go higher than the "C" Tier. The Kipolans don't want you to lose your sense of self, they may not even want you to be corrupted in the first place out of love or case, so they'll quite gladly restrict their influence on your body. In addition, if two Kipolan entities who you have an associated corruption value with are in conflict then things go to a "balance" state. If you have a Tier L with Casey and a Tier Q with Rin then while Rin may go up, Q being lower than L, for each tier gained with Rin you lose a tier with Casey. This will continue until things are balanced out. If the conflict was over you, lets say the two girls being a bit immature and both wanting you, then the second you hit this balance point things would be resolved. Other conflicts may have other solutions.
 
+Wait, what if I don't want these tiers? Well, you can shed corruption through various methods. Turning to the Order, engaging in church activities, stopping interaction with the Kipolan(s), talking with Nimu and the Eyes, doing research with Cassie, and just generally helping others and doing Empathy-related tasks are all examples of those methods. Even some activities which the Kipolans may take part in, Emily trying to bring joy through art and Nimu trying to heal others, provide no (and may lower) corruption. Similarly enough killing in the name of God, something the Order does quite often, actually brings corruption to an unknown (but quite feared) entity.
 
-....................
-Following the same idea as Auras, but specific and based upon interaction, is a "Corruption Value" which players may gain. This is explained in lore through the story of the creation of Disciples, Humans corrupted to a point of physical and mental reconstruction into a figure which the Kipolan(s) around them desired.
-
-Corruption increments in tiers, starting at Z (No corruption) and ascending to A (Fully corrupt, no humanity remaining) over time. Lower Humanity characters, be it naturally or due to Cybernetic modification, will gain these "tiers" quicker than High-Humanity characters. EMP means nothing in these cases, just the Humanity number coming from your EMP. 
-
-In the case of the Seltzer Boys group, as the Kipolans have a love for the party, the party may go no higher than a Corruption tier of C (15 Humanity max) to keep them around. Kipolans in other situations may not feel the same way, generally they're taught to hate Humanity, but Exiles (the associated Kipolans) don't generally feel the same way.
-
-Corruption Tiers may be gained through interaction with specific Kipolan entities. Hanging around them for the night may add a light amount, a sixteenth of a tier, but indulging in their favorite activities may add heavier amounts going as high as two tiers. Over time tier gain will slow, it'll never halt but similar to XP in a role-playing game a greater amount is required for the next tier up from wherever the player is at.
-
-Low Corruption Tiers will provide small effects and no OA value to the players. Things like minor stat/skill increases, a +1 in Language (Kipolan), or minor physical modifications (slight hair color change, sharp fingernails, etc.) will occur. Of course these effects depend on whichever Kipolan is "corrupting" the player.
-
-High Corruption Tiers will give major effects and up to 2% OA values per-tier to players. Major stat increases (up to a 18 in the favored stat of the Kipolan), major Skill increases (up to a 20 in favored skills of the Kipolan), major physical modifications (Horns, Wings, Tail, etc.), and extra abilities matching those of the "corruptor" will occur.
-
-Corruption Tiers can wear off over time. Not interacting with, showing hostility towards, harming, or anything else against the "corruptor" will cause Tiers to go away. There are no withdrawl symptoms for low tiers, a minor stat decrease won't do much, but high tiers can cause amounts of mental or physical stress if the come-down isn't padded slightly.
-
-If Kipolans are in conflict then gaining one corruption tier with Entity A will lower your tiers, if you have any, with Entity B. This will go on until the tiers are even, the highest you may be until the conflict is resolved. Conflict must, by AERPS classification, be "Notable" for this rule to take effect.
-
-Example of Corruption Table, Simplified/33% Copy
-Entity: Emi
-Major Values: [redacted]
-Tier Z: +1 REP (Kipolan) and +1 REP (Personal - Emi)
-Tier Y  +1 to Paint or Draw
-Tier X: +1 to INT
-Tier W: +1 to Wardrobe & Style, Composition, Dance, Paint or Draw, Play Instrument
-Tier V: +1 to Language (Kipolan)
-...
-Tier Q: Add WITCH_READMIND_MINOR, Add Noticeable Physical Feature
------------------------------------
-Note: This document is meant for player eyes as mentioned mechanics, notably "Auras" and "Corruption" in this document, are currently in a state of question. All GMs are in agreement that these mechanics would be of value to the game but would like player feedback if these ideas sound poor.
+So can I see what my corruption tables would look like? Sadly, as much as I want to provide examples, we won't be providing any. Being able to see the progression ahead of time may cause players to try and "spec into" the "right" corruption values instead of natural role-play progression, something that would be quite lame to see happening.
