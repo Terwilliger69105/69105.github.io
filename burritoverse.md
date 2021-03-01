@@ -13,6 +13,8 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 [Looking to pick up a job or two?](/burritoverse/jobs/)
 
+[**UNFINISHED** Want to see the current Seltzer Boys group?](/burritoverse/characters/)
+
 ---
 
 **Update for March 1st, 20201 as-of 11AM**
