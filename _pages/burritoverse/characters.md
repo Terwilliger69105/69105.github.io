@@ -11,13 +11,13 @@ Want to view the basic stats and skills for all of the currently-running Seltzer
 
 *TBA!*
 
---
+---
 
 **Dmitri**
 
 *TBA!*
 
---
+---
 
 **Dutch**
 
