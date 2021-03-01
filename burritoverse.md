@@ -15,7 +15,13 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 ---
 
-**Update for Feb. 28th, 2021**
+**Update for March 1st, 20201 as-of 11AM**
+
+[Corruption](/burritoverse/corruption/) page is now up kinda? I need to smooth out the writing a fair bit or so I think but whatever, the simple stuff is there. Feel free to give it a look, simply enough it exists.
+
+---
+
+**Update for Feb. 28th, 2021 - Held for Minis**
 
 Session flopped but I have an alternative solution that way things can keep moving \o/
 
@@ -43,15 +49,15 @@ Minis will take pick up at the end of last session, noon on August 11-B, 2020, u
 
 Day       | Time   | Player
 ----------|--------|-------
-Sunday    | Night  | 
-Monday    | Day    | 
-Monday    | Night  | 
+Sunday    | Night  | Hugo (Completed)
+Monday    | Day    | N/A (Completed)
+Monday    | Night  | Yury
 Tuesday   | Day    | 
 Tuesday   | Night  | 
-Wednesday | Day    | 
+Wednesday | Day    | Lelith
 Wednesday | Night  | 
 Thursday  | Day    | 
-Thursday  | Night  | 
+Thursday  | Night  | Ray
 Friday    | Day    | 
 Friday    | Night  | 
 Saturday  | Varies | 
