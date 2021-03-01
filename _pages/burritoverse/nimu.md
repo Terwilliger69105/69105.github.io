@@ -3,9 +3,27 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on Feb. 24th, 2021 around 8:00PM. Currently one day (2-3 entries) behind.*
+*Last update was on March 1st, 2021 around 11:25AM. Currently twelve entries behind, goal is writing four a day.*
 
-*Added August 12th, 2020 - 03:11:22 && November 22nd, 2012 - 23:59:07*
+*Added August 13th, 2020 - 02:11:19 && ??? - ??? && August 12th, 2020 - 22:57:31 ** November 23rd, 2012 - 07:11:25*
+
+---
+
+**August 13th, 2020 - 02:11:19**
+
+The fight was tough for a little bit. Then they shot Alex. Alex gets really wound up when she's harmed. She ran her sword through the armor of the Knights like butter. It was strange to see. They bleed black blood. It feels corrupt. They call it pure. Idiots. The Humans were removed from the fight. That was fine. They wanted to help. They looked ready. Oh well. They're all sleeping now. That's for the better. They can use the rest. The "Holy" ones told us that they'll be back soon. Just somewhere else. I wonder where will be next. They seem to want anywhere that they can take over many Humans. We're all worried. We're waiting for the Humans to wake. We're going to have to rest later. Hopefully the Humans don't need us too late. We need to regenerate.
+
+---
+
+**??? - ???**
+
+*A drawing of a human, clearly a Sun Knight, in the process of being dismembered by a fire axe is on this page. The word "FEEL" is written beneath it.*
+
+---
+
+**August 12th, 2020 - 22:57:31**
+
+The officer is coming back. Caramel is coming back. The Humans are getting ready. We're going to a fight. I can tell it's going to be strange. The Eyes say we'll be fine. They say the Humans may be hurt mentally. I'm prepared to help them in any way. So is Emi. So is Yzin. So is Alex. We'll be fine.
 
 ---
 
@@ -340,6 +358,12 @@ I got taken to the outside world today. It was a class trip. We looked at the hu
 **December 25th, 2012 - 09:11:45**
 
 Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
+
+---
+
+**November 23rd, 2012 - 07:11:25**
+
+I got new clothes today. They're more comfortable. A shirt and skirt with long socks. They feel good. They feel better than what I was wearing. I'm glad. I can't wait for Emi to see me in it. I know she'll like it. The others haven't gotten new clothes in forever. Maybe they'll get some soon? Mother says these will fit me better in more ways. She said they'll match my mind.
 
 ---
 
