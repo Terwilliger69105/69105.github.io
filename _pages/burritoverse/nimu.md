@@ -3,7 +3,7 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on March 1st, 2021 around 11:25AM. Currently twelve entries behind, goal is writing at least four a day.*
+*Last update was on March 2nd, 2021 around 1:40PM. Still twelve entries behind, goal is writing at least four a day so possibly more in downtime at work.*
 
 *Added August 13th, 2020 - 10:01:16 && July 4th, 2017 - 22:49:17*
 
