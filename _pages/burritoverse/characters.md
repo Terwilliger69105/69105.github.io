@@ -10,7 +10,7 @@ Want to view the basic stats and skills for all of the currently-running Seltzer
 **Archer**
 
 Stat | Value
--------------
+-----|-------
 INT  | 6
 REF  | 6
 TECH | 10
@@ -26,7 +26,7 @@ MA   | 4
 **Dmitri**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
@@ -42,7 +42,7 @@ MA   |
 **Dutch**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
@@ -58,7 +58,7 @@ MA   |
 **Hugo**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
@@ -74,7 +74,7 @@ MA   |
 **Lelith**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
@@ -90,7 +90,7 @@ MA   |
 **Michael**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
@@ -105,7 +105,7 @@ MA   |
 **Mosi**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
@@ -121,7 +121,7 @@ MA   |
 **Psycho Joe**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
@@ -137,7 +137,7 @@ MA   |
 **Ray**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
@@ -153,7 +153,7 @@ MA   |
 **Yury**
 
 Stat | Value
--------------
+-----|-------
 INT  |
 REF  |
 TECH |
