@@ -52,14 +52,14 @@ Minis will take pick up at the end of last session, noon on August 11-B, 2020, u
 Day       | Time   | Player
 ----------|--------|-------
 Sunday    | Night  | Hugo (Completed)
-Monday    | Day    | N/A (Completed)
-Monday    | Night  | Yury
-Tuesday   | Day    | 
-Tuesday   | Night  | 
+Monday    | Day    | N/A
+Monday    | Night  | Yury (Half Complete)
+Tuesday   | Day    | N/A
+Tuesday   | Night  | Hugo (Redo) + Yury (Finish)
 Wednesday | Day    | Lelith
-Wednesday | Night  | 
-Thursday  | Day    | 
-Thursday  | Night  | Ray
+Wednesday | Night  | Joe (Depends)
+Thursday  | Day    | Ray
+Thursday  | Night  | 
 Friday    | Day    | 
 Friday    | Night  | 
 Saturday  | Varies | 
