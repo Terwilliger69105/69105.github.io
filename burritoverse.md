@@ -17,7 +17,13 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 ---
 
-**Update for March 1st, 20201 as-of 11AM**
+**Update for March 2nd, 2021**
+
+I'm not sure how much writing is going to get done tonight but hopefully some amount, getting /characters going and putting at least two (hoping for four) entries onto Nimu's Board would be optimal. I'm finally taking a keyboard proper around with me so it should smooth stuff a decent amount.
+
+---
+
+**Update for March 1st, 2021 as-of 11AM - Held for not knowing where to place Corruption page**
 
 [Corruption](/burritoverse/corruption/) page is now up kinda? I need to smooth out the writing a fair bit or so I think but whatever, the simple stuff is there. Feel free to give it a look, simply enough it exists.
 
@@ -70,7 +76,7 @@ Saturday  | Varies |
 
 1. Smooth out some of the writing on the site
 
-2. Add August 13th jobs to the Job Board
+2. ~~Add August 13th jobs to the Job Board~~ Complete!
 
 3. Carry-overs from last week (Add one page to Kipola, work on Character Creation page)
 
