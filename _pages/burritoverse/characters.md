@@ -11,15 +11,15 @@ Want to view the basic stats and skills for all of the currently-running Seltzer
 
 Stat | Value
 -----|-------
-INT  | ....6
-REF  | ....6
-TECH | ...10
-COOL | ....6
-ATTR | ....4
-LUCK | ....1
-MA   | ....4
-BODY | ....5
-EMP  | ....5
+INT  | 6
+REF  | 6
+TECH | 10
+COOL | 6
+ATTR | 4
+LUCK | 1
+MA   | 4
+BODY | 5
+EMP  | 5
 
 ---
 
