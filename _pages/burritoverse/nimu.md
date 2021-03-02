@@ -5,7 +5,13 @@ permalink: /burritoverse/nimu/
 
 *Last update was on March 1st, 2021 around 11:25AM. Currently twelve entries behind, goal is writing at least four a day.*
 
-*Added August 13th, 2020 - 02:11:19 && ??? - ??? && August 12th, 2020 - 22:57:31 && November 23rd, 2012 - 07:11:25*
+*Added August 13th, 2020 - 10:01:16 && July 4th, 2017 - 22:49:17*
+
+---
+
+**August 13th, 2020 - 10:01:16**
+
+The Humans are waking up. That's good. I can hear them shuffling around. It's a nice sound. Things were quiet without them. Too quiet. I went off to the nearest body of water. A nice lake south of where we fought. There's an island. To the north I made a gate to Chicago. It leads to Indian Village. Right south of where we left for Milwaukee. The Milwaukee exit was east of a tree. This is east of a small statue south of the tree. I think only the Humans can go though. And us. I went over and put a "job offer" on Molly's board. Maybe one of them will try it. That would be nice.
 
 ---
 
@@ -250,6 +256,12 @@ I keep getting visions of a city. I don't know what they mean. I'm standing guar
 **December 29th, 2018 - 01:48:44**
 
 Father got mad at me. Madder than usual. I disrupted his house guests. Other men like him talking about breeding Mother. He threatened me with a knife. I tried to make him use it on me. He didn't. He says he'll save it for my womb. Mother locked me inside my room. I'm going to miss a week of schooling. I don't care. Nobody that likes me is left there. I need to leave.
+
+---
+
+**July 4th, 2017 - 22:49:17**
+
+I traveled to the Edge again. Where Emi and I used to look out at the Humans. They're firing rockets into the air. They make pretty colors. I've never seen these before. One of my classmates saw me. They told me that they call this "independence day" in Human speak. I don't know what that means. It looks nice.
 
 ---
 
