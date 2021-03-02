@@ -9,58 +9,157 @@ Want to view the basic stats and skills for all of the currently-running Seltzer
 
 **Archer**
 
-*TBA!*
+Stat | Value
+-------------
+INT  | 6
+REF  | 6
+TECH | 10
+BODY | 5
+EMP  | 5
+LUCK | 1
+COOL | 6
+ATTR | 4
+MA   | 4
 
 ---
 
 **Dmitri**
 
-*TBA!*
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
 
 ---
 
 **Dutch**
 
-*TBA!*
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
 
 ---
 
 **Hugo**
 
-*TBA!*
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
 
 ---
 
 **Lelith**
 
-*TBA!*
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
 
 ---
 
 **Michael**
 
-*TBA!*
-
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
 ---
 
 **Mosi**
 
-*TBA!*
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
 
 ---
 
 **Psycho Joe**
 
-*TBA!*
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
 
 ---
 
 **Ray**
 
-*TBA!*
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
 
 ---
 
 **Yury**
 
-*TBA!*
+Stat | Value
+-------------
+INT  |
+REF  |
+TECH |
+BODY |
+EMP  |
+LUCK |
+COOL |
+ATTR |
+MA   |
