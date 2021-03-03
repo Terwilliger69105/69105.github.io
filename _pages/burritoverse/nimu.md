@@ -3,9 +3,9 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on March 2nd, 2021 around 1:40PM. Still twelve entries behind, goal is writing at least four a day so possibly more in downtime at work.*
+*Last update was on March 2nd, 2021 around 9:350PM. Still ten entries behind.*
 
-*Added August 13th, 2020 - 10:01:16 && July 4th, 2017 - 22:49:17*
+*Added August 13th, 2020 - 10:01:16 && July 4th, 2017 - 22:49:17 && August 4th, 2013 - 04:11:29 && November 24th, 2012 - 17:51:09*
 
 ---
 
@@ -343,6 +343,12 @@ I got to go to Emi's home for the new year. Her family is nice. Her Mother loves
 
 ---
 
+**August 4th, 2013 - 04:11:29**
+
+Father was furious. He found out that I learned of what I can do. I was just doing the right thing. He sliced me with his knife over and over. My body would keep coming back. He gouged my left eye out. It came back. He was furious. He left the home. Mother cried. I don't get it. I was just being nice.
+
+---
+
 **August 3rd, 2013 - 19:20:18**
 
 I saw another who was hurt. They were scared. I touched them. They were healed. I don't get it. How did I heal them? They looked at me in shock. They said I need to leave fast. I don't get it. They were happy for me. I liked that.
@@ -370,6 +376,12 @@ I got taken to the outside world today. It was a class trip. We looked at the hu
 **December 25th, 2012 - 09:11:45**
 
 Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
+
+---
+
+**November 24th, 2012 - 17:51:09**
+
+We had a test in our history class today. It was about Salpsan so it was really important. I think I did well on it. Emi helped to quiz me during homeroom period. I can't wait to bring home a good test for Mother to see. She'll be proud. Father will be mad. That'll be funny to see.
 
 ---
 
