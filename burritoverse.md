@@ -17,7 +17,7 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 ---
 
-**Update for March 3rd, 2021**
+**Update for March 4th, 2021**
 
 Same shit different day.
 
