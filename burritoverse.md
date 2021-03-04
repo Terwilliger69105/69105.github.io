@@ -17,9 +17,9 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 ---
 
-**Update for March 2nd, 2021**
+**Update for March 3rd, 2021**
 
-I'm not sure how much writing is going to get done tonight but hopefully some amount, getting /characters going and putting at least two (hoping for four) entries onto Nimu's Board would be optimal. I'm finally taking a keyboard proper around with me so it should smooth stuff a decent amount.
+Stuff is really messy at work so I'm unsure if much anything will get done. No minis are being run tonight apart from some text, I can't be on and up past like 1:45AM that way I'm getting good sleep for a meeting tomorrow, which sucks because I was looking forward to 'em. Will be two more Nimu's Board entries before I sleep, probably when I get home.
 
 ---
 
