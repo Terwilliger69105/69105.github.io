@@ -3,9 +3,9 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on March 3rd, 2021 around 11:50PM. Still ten entries behind.*
+*Last update was on March 4th, 2021 around 1:15PM. Still ten entries behind.*
 
-*Added November 25th, 2012 - 19:21:36 && Updated August 13th, 2020 - 02:11:19*
+*Added March 9th, 2014 - 05:11:19 && November 26th, 2012 - 15:31:10*
 
 ---
 
@@ -333,6 +333,12 @@ People keep looking at Emi and I. They make fun of us. They say that she's a pre
 
 ---
 
+**March 9th, 2014 - 05:11:19**
+
+We took a field trip to the outside. The humans call the place Chicago. We went around a big market they run. There were so many cool things! There was an old school turned into a bar, too. A woman ran it. She was really nice to us. I like her. They say Humans are so bad in every class but Upper Human Studies. I wonder why? They're so nice!
+
+---
+
 **January 22nd, 2014 - 06:31:28**
 
 Father is forcing me to go to school. I couldn't breathe when I woke up. It feels like someone is sitting on my chest. He says I need to learn to deal with it. Mother wanted me to take a sick day. He hit her. I don't want to be here.
@@ -378,6 +384,12 @@ I got taken to the outside world today. It was a class trip. We looked at the hu
 **December 25th, 2012 - 09:11:45**
 
 Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
+
+---
+
+**November 26th, 2012 - 15:31:10**
+
+I was placed into the Upper Human Studies group! They say we'll get to leave occasionally. Field trips they call them. Not for a year or so though. That's fine! I can't wait to visit the outside! Father hates it. Father wants me to leave the course. But he has no control. I get to choose. I'll always take this course. It's so fun! Screw him. This will be great! I can't wait to learn more!
 
 ---
 
