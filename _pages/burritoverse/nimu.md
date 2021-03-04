@@ -19,7 +19,7 @@ The Humans are waking up. That's good. I can hear them shuffling around. It's a 
 
 The fight was tough for a little bit. Then they shot Alex. Alex gets really wound up when she's harmed. She ran her sword through the armor of the Knights like butter. It was strange to see. They bleed black blood. It feels corrupt. They call it pure. Idiots. The Humans were removed from the fight. That was fine. They wanted to help. They looked ready. Oh well. They're all sleeping now. That's for the better. They can use the rest. The "Holy" ones told us that they'll be back soon. Just somewhere else. I wonder where will be next. They seem to want anywhere that they can take over many Humans. We're all worried. We're waiting for the Humans to wake. We're going to have to rest later. Hopefully the Humans don't need us too late. We need to regenerate.
 
-PS: Ichas is alive. He's going to Kipola today. He'll be back tomorrow. I'm excited. I missed him. I can't wait to continue our lessons.
+PS: Ichas is alive. I knew it. Father had him sent to the Order's purgatory. He has his true body. He's going to Kipola today. He'll be back tomorrow. I'm excited. I missed him. I can't wait to continue our lessons.
 
 ---
 
