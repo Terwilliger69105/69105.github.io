@@ -3,9 +3,9 @@ title: "Nimu"
 permalink: /burritoverse/nimu/
 ---
 
-*Last update was on March 2nd, 2021 around 9:35PM. Still ten entries behind.*
+*Last update was on March 3rd, 2021 around 11:50PM. Still ten entries behind.*
 
-*Added August 13th, 2020 - 10:01:16 && July 4th, 2017 - 22:49:17 && August 4th, 2013 - 04:11:29 && November 24th, 2012 - 17:51:09*
+*Added November 25th, 2012 - 19:21:36 && Updated August 13th, 2020 - 02:11:19*
 
 ---
 
@@ -18,6 +18,8 @@ The Humans are waking up. That's good. I can hear them shuffling around. It's a 
 **August 13th, 2020 - 02:11:19**
 
 The fight was tough for a little bit. Then they shot Alex. Alex gets really wound up when she's harmed. She ran her sword through the armor of the Knights like butter. It was strange to see. They bleed black blood. It feels corrupt. They call it pure. Idiots. The Humans were removed from the fight. That was fine. They wanted to help. They looked ready. Oh well. They're all sleeping now. That's for the better. They can use the rest. The "Holy" ones told us that they'll be back soon. Just somewhere else. I wonder where will be next. They seem to want anywhere that they can take over many Humans. We're all worried. We're waiting for the Humans to wake. We're going to have to rest later. Hopefully the Humans don't need us too late. We need to regenerate.
+
+PS: Ichas is alive. He's going to Kipola today. He'll be back tomorrow. I'm excited. I missed him. I can't wait to continue our lessons.
 
 ---
 
@@ -376,6 +378,12 @@ I got taken to the outside world today. It was a class trip. We looked at the hu
 **December 25th, 2012 - 09:11:45**
 
 Mother wanted to try something new. Father left town. She says it's a human holiday they call "Christmas" which relates to the God of the Order. Or so they claim. Mother says it has no real religious connection anymore. She gave me new pens inside of a colorful paper. It had a funny bow. I like these pens. Mother gave me a hug. I wonder if she's starting to love me. Maybe it's just because Father isn't home. I hope Father never comes back.
+
+---
+
+**November 25th, 2012 - 19:21:36**
+
+I passed! Mother was proud. Father was mad. Ha. They said I can go for higher classes. I'll be one of five out of two hundred. I can't wait! I hope I do well. I like being smart.
 
 ---
 
