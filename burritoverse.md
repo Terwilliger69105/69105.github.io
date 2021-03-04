@@ -19,7 +19,9 @@ This is the hub for the *Burritoverse* series of Cyberpunk-based tabletop role-p
 
 **Update for March 3rd, 2021**
 
-Stuff is really messy at work so I'm unsure if much anything will get done. No minis are being run tonight apart from some text, I can't be on and up past like 1:45AM that way I'm getting good sleep for a meeting tomorrow, which sucks because I was looking forward to 'em. Will be two more Nimu's Board entries before I sleep, probably when I get home.
+Same shit different day.
+
+I'll be trying to respond on text minis as best as possible, Nimu's entries will come, and hopefully more?
 
 ---
 
@@ -74,7 +76,7 @@ Saturday  | Varies |
 
 **Weekly Checklist**
 
-1. Smooth out some of the writing on the site
+1. ~~Smooth out some of the writing on the site~~ Riley is doing this I guess. Thanks!
 
 2. ~~Add August 13th jobs to the Job Board~~ Complete!
 
