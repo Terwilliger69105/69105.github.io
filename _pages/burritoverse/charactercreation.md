@@ -1,4 +1,9 @@
-﻿## Character Creation
+---
+title: "Character Creation"
+permalink: /burritoverse/charactercreation/
+---
+
+## Character Creation
 
 Due to the premise of this game, the players being a group of enslaved individuals, character creation will be handled slightly differently than usual.
 
