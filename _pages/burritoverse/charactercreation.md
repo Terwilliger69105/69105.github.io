@@ -34,7 +34,7 @@ Players in *The Price of Freedom* may start the game with **4D10+10** stat point
 
 ### Skills & Special Abilities & (Dis)Advantages
 
-**When doing skills:** Choose one skill which you would like to be your "expert" skill. You may have up to **five** points in this skill. All other skills may only go to **three**.
+**When doing skills:** Choose one skill which you would like to be your "expert" skill. You may have up to **five** points in this skill. All other skills may only go to **three**. Additional points, say due to Advantages, will disappear into the void!
 
 Skill points are determined by the usual Burritoverse formula, (INT+REF)*2.
 
@@ -52,7 +52,9 @@ You may view Advantage & Disadvantage tables at the bottom of this page.
 
 ### Money
 
-You have no money on Deimos, see the word "slave" and what it brings along with it, but you may have money back home on Earth/Luna/Mars. Determine your money by doing ((INT+LUCK)/2)*1000
+You have no money on Deimos, see the word "slave" and what it brings along with it, but you may have money back home on Earth/Luna/Mars. 
+
+Determine your money on your home planet by doing ((INT+LUCK)/2)*1000
 
 ---
 
