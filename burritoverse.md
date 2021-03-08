@@ -24,4 +24,4 @@ Character Creation rules will go up soon enough, you'll pretty much be pre-built
 
 **Directory of info for *???***
 
-Nothing yet.
+[Character Creation Resources](/burritoverse/cc)
