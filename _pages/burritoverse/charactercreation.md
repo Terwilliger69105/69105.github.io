@@ -11,7 +11,9 @@ Due to the premise of this game, the players being a group of enslaved individua
 
 ### Role
 
-As with every Burritoverse game, as will continue with every Burritoverse game, roles don't exist. You may distribute skills wherever you want.
+As with every Burritoverse game, as will continue with every Burritoverse game, roles don't exist. 
+
+You may distribute skills wherever you want.
 
 ---
 
@@ -19,7 +21,9 @@ As with every Burritoverse game, as will continue with every Burritoverse game, 
 
 **When doing lifepath:** Follow the tables as-usual, one event for every year starting at sixteen, but please make your final event *Enslaved (SovOil)* instead of rolling it out.
 
-You may find the stock Lifepath tables in the *Cyberpunk 2020* core rulebook. Roll these and please message the GM with any conflicts which you come across. Rerolls are allowed but **must** be communicated.
+You may find the stock Lifepath tables in the *Cyberpunk 2020* core rulebook. Roll these and please message the GM with any conflicts which you come across. 
+
+Rerolls are allowed but **must** be communicated.
 
 ---
 
@@ -46,7 +50,7 @@ Advantage and Disadvantage, similar to those from previous Burritoverse games, a
 
 If you don't know how to take these, simply buy Advantages and Disadvantages with Skill Points during character creation. Advantages cost you Skill Points while Disadvantages give you Skill Points. So, if I want to take the advantage *Combat Sense +2* which costs *4SP* I'd simply mark it down on my character sheet and subtract 4SP from my Skill Points pool.
 
-You may view Advantage & Disadvantage tables at the bottom of this page.
+You may view [Advantage](https://docs.google.com/document/d/1j9NDFlP-G80zLZfFSTAyqi3PVoSjjliDU5BiIakjNdE/edit?usp=sharing) and [Disadvantage](https://docs.google.com/document/d/1REj3BvO2hcfTUvVy2KOEKjCXQXv9n7SoyDV66lRFtRM/edit?usp=sharing) tables by visiting their respective hyperlinks. The [FE&C Chart](https://docs.google.com/document/d/1c2_PGIUQ6I0EJpmVfX6JqyyWjxUtlI7r37oF9gRstRw/edit?usp=sharing) is also linked if you need it. These will eventually be smoothed out and in plain text on this site.
 
 ---
 
@@ -61,3 +65,9 @@ Determine your money on your home planet by doing ((INT+LUCK)/2)*1000
 ### Equipment
 
 Equipment will be assigned to you during the first game session. If you would like to be cybernetically modified please contact the GM and say with exactly what.
+
+---
+
+### Advantage and Disadvantages Tables
+
+
