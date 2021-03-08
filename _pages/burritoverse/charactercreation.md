@@ -5,21 +5,19 @@ permalink: /burritoverse/cc/
 
 ## Character Creation
 
-Due to the premise of this game, the players being a group of enslaved individuals, character creation will be handled slightly differently than usual.
+Due to the premise of this game character creation will be handled slightly differently than usual.
 
 ---
 
 ### Role
 
-As with every Burritoverse game, as will continue with every Burritoverse game, roles don't exist. 
+As with every Burritoverse game, as will continue with every Burritoverse game, roles don't exist. Technically you could say "Occupation: Mercenary" or some other sort of similar thing, you are someone doing contract dirty work, but having a party of people labeled "Solo" is a bit boring.
 
 You may distribute skills wherever you want.
 
 ---
 
 ### Lifepath
-
-**When doing lifepath:** Follow the tables as-usual, one event for every year starting at sixteen, but please make your final event *Enslaved (SovOil)* instead of rolling it out.
 
 You may find the stock Lifepath tables in the *Cyberpunk 2020* core rulebook. Roll these and please message the GM with any conflicts which you come across. 
 
@@ -32,7 +30,7 @@ Rerolls are allowed but **must** be communicated.
 
 **When doing stats:** Choose one stat which you would like to be your "expert" stat. You may have up to **seven** points in this stat. All other stats may only go to **five**.
 
-Players in *The Price of Freedom* may start the game with **4D10+10** stat points. Please re-roll all 1s. If you have extra stat points then you may make them into "+1s" for things which, upon completing the first major adventure of the game (Leaving Deimos for Mars (or wherever else)) will automatically be applied to said attribute.
+Players in *???* may start the game with **4D10+10** stat points. Please re-roll all 1s. If you have extra stat points then you may make them into "+1s" for things which, upon completing the first major adventure of the game (the underwater job) will automatically be applied to said attribute.
 
 ---
 
@@ -40,11 +38,23 @@ Players in *The Price of Freedom* may start the game with **4D10+10** stat point
 
 **When doing skills:** Choose one skill which you would like to be your "expert" skill. You may have up to **five** points in this skill. All other skills may only go to **three**. Additional points, say due to Advantages, will disappear into the void!
 
-Skill points are determined by the usual Burritoverse formula, (INT+REF)*2.
+Skill points are determined by the usual Burritoverse formula, (INT+REF)*2, but then divided by two and rounded down. This is because you get a "Stock Skill Package" which guarantees that your character is fit for their job. You may place these points wherever you please.
+
+The "Stock Skill Package" gives you:
+
+**BODY:** +2 *Endurance* && +1 *Swimming* 
+
+**COOL:** +1 *Resist Torture/Drugs*
+
+**INT:** +2 *Awareness/Notice* && +2 *Education & General Knowledge* && +2 *Language (English)*
+
+**REF:** +1 *Handgun* && +1 *Melee* && +1 *Submachinegun*
+
+**TECH:** +1 *First Aid*
 
 Special Abilities, the "role-restricted" skills of the game, don't exist anymore. This means that you may **not** put points into Authority, Charismatic Leadership, Combat Sense, Credibility, Family, Jury Rig, Resources, or Streetdeal. You may also **not** put points into supplement-based Special Abilities.
 
-You may notice that Interface and Medtech aren't on there, why's that? Well, simply enough there's nothing to replace them.  Interface has been made an Intelligence skill which anyone may buy into, we're saying INT because anyone can jack into the 'net with proper training. Medtech has been made a Tech skill which anyone can buy into, if you don't know why then note the word *Tech* being a part of *Medtech*.
+You may notice that Interface and Medtech aren't on the list of "nonexistent" abilities. This is because there's nothing to replace them. Interface has been made an Intelligence skill which anyone may buy into, we're saying INT because anyone can jack into the 'net with proper training. Medtech has been made a Tech skill which anyone can buy into, if you don't know why then note the word *Tech* being a part of *Medtech*.
 
 Advantage and Disadvantage, similar to those from previous Burritoverse games, are allowed within this game. Changing things slightly, you may have **as many Advantages as you want** *but* only **up to twelve points of Disadvantage**. 
 
@@ -56,13 +66,15 @@ You may view [Advantage](https://docs.google.com/document/d/1j9NDFlP-G80zLZfFSTA
 
 ### Money
 
-You have no money on Deimos, see the word "slave" and what it brings along with it, but you may have money back home on Earth/Luna/Mars. 
-
-Determine your money on your home planet by doing ((INT+LUCK)/2)*1000
+Presumably you've been doing jobs in the past. To determine this "starting cash" please use the formula ((INT+LUCK)/2)*1000 which you may use to buy whatever equipment you please.
 
 ---
 
 ### Equipment
 
-Equipment will be assigned to you during the first game session. If you would like to be cybernetically modified please contact the GM and say with exactly what.
+Some equipment will be assigned to you. This includes:
 
+**Tsunami Arms Shu-1**
+Type | Accuracy | Availability | Concealability | Magazine | Rate of Fire | Cartridge | Damage | Reliability | Range | Cost |
+-----|----------|--------------|----------------|----------|--------------|-----------|--------|-------------|-------|------|
+SMG  | 0        | Poor         | Jacket         | 20       | 2/3/10       | 10mm C    | 2D6+3  | Standard    | 100m  | 810eb|
