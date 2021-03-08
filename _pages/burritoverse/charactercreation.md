@@ -75,6 +75,10 @@ Presumably you've been doing jobs in the past. To determine this "starting cash"
 Some equipment will be assigned to you. This includes:
 
 **Tsunami Arms Shu-1**
+
 Type | Accuracy | Availability | Concealability | Magazine | Rate of Fire | Cartridge | Damage | Reliability | Range | Cost |
 -----|----------|--------------|----------------|----------|--------------|-----------|--------|-------------|-------|------|
 SMG  | 0        | Poor         | Jacket         | 20       | 2/3/10       | 10mm C    | 2D6+3  | Standard    | 100m  | 810eb|
+
+**3x** Magazines for Shu-1
+
