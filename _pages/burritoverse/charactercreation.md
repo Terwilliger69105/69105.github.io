@@ -82,5 +82,8 @@ Some equipment will be assigned to you. This includes:
 
 **Gibson Bodywear:** Light Armor (0 EV), Soft, +8SP to L. Arm && R. Arm && L. Leg && R. Leg && Torso
 
-**3x Military Ration
+**3x Military Ration** *(3 Meals/Ration)*
 
+**Windproof Lighter**
+
+In addition, if you would like, you may spend your own money as-determined above on whatever other equipment you may want. This can be pulled from any official sourcebooks and Datafortress. Make sure, it's preferred in general and nessecary if pulling equipment from online sources, that you communicate what you're getting with the GM!
