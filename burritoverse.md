@@ -4,7 +4,7 @@ permalink: /burritoverse/
 ---
 BV-G8SB is dead. Idea #1, my old *The Price of Freedom* story, is also dead. Time for Idea #2.
 
-*The year is 2018. The month is March. The day is the 11th.*
+*The year is 2021. The month is March. The day is the 11th.*
 
 *An hour ago you got to attend what may have been one of the biggest media events to ever happen. Darren Lancaster, a serial rapist, just had the first "interactive execution" in a new program set up by the Federal Government. You, plus the rest of the nation, got to determine his fate. Of course you voted for Death, why wouldn't you? Sixty-four women and sixteen boys were ruined by that man! It was satisfying to see that scum get taken out. If only they had something more entertaining than a robotic firing squad...*
 
