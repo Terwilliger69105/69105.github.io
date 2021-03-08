@@ -66,8 +66,3 @@ Determine your money on your home planet by doing ((INT+LUCK)/2)*1000
 
 Equipment will be assigned to you during the first game session. If you would like to be cybernetically modified please contact the GM and say with exactly what.
 
----
-
-### Advantage and Disadvantages Tables
-
-
