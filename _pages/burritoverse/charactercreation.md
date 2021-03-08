@@ -66,7 +66,7 @@ You may view [Advantage](https://docs.google.com/document/d/1j9NDFlP-G80zLZfFSTA
 
 ### Money
 
-Presumably you've been doing jobs in the past. To determine this "starting cash" please use the formula ((INT+LUCK)/2)*1000 which you may use to buy whatever equipment you please.
+Presumably you've been doing jobs in the past. To determine this "starting cash" please use the formula ((INT+LUCK)/2)*1000 which you may use.
 
 ---
 
