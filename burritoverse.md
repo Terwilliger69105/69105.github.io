@@ -23,3 +23,8 @@ If you're interested to any extent then [join the server](https://discord.gg/sHa
 
 ![PsyCabin](https://i.imgur.com/VFicoDL.png)
 
+---
+
+**Directory of info for *The Price of Freedom***
+
+[Character Creation](/burritoverse/cc/)
