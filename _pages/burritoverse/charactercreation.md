@@ -76,6 +76,11 @@ Some equipment will be assigned to you. This includes:
 
 **Tsunami Arms Shu-1:** SMG, +0 Accuracy, Poor Availability, Jacket Concealability, 20-round Magazine (10mm Caseless), 2/3/10 RoF, 2D6+3 Damage, Standard Reliability, 100m Range, 810eb Cost
 
-**3x** Magazines for Shu-1
+**3x Magazines** *(Shu-1)*
 
 **Combat Knife:** Melee, +1 Accuracy, Poor Availability, Jacket Concealability, 1D6+3 Damage, Very Reliable, 1m Range, 50eb Cost
+
+**Gibson Bodywear:** Light Armor (0 EV), Soft, +8SP to L. Arm && R. Arm && L. Leg && R. Leg && Torso
+
+**3x Military Ration
+
