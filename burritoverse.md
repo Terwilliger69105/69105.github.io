@@ -14,6 +14,10 @@ If it fails then fine, I'll quit being a GM and go back to my old friend suicida
 
 ![PsyCabin](https://i.imgur.com/VFicoDL.png)
 
+[Join the server](https://discord.gg/6RPUdRrw) if you want to I guess.
+
+The only ideas I still have left for starting anything will go on here in an hour or three. I doubt anyone will like them.
+
 ---
 
 **Directory of info for *???***
