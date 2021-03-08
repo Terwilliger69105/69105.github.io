@@ -18,7 +18,7 @@ BV-G8SB is dead. Idea #1, my old *The Price of Freedom* story, is also dead. Tim
 
 [Join the server](https://discord.gg/6RPUdRrw) if you want to play!
 
-Character Creation rules will go up soon enough, you'll pretty much be pre-built into a core "solo-ish" with room to spec into whatever else you'd like to be good at (be it for RP or action) and if things go smooth then that character should be able to continue onwards. A
+Character Creation is now live, see the hyperlink below this text. Maps are half-prepared, rought pen-and-paper copies exist, and will be transfered to digital versions soon. Enemies have been finalized. In theory this game could start as soon as **March 13th, 2021** due to the minimal amount of nessecary prep work.
 
 ---
 
