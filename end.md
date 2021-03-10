@@ -21,6 +21,6 @@ Yeah, I did twice. People pulled me out of it both times. Then, once people quit
 
 Then quit saying it and do something.
 
-*"Are you going to re-join <thing>?"*
+*"Are you going to re-join thing?"*
   
 Probably not. Why would they want me being a sad/worthless/idiotic pile of shit? All I was doing was annoying people before. None of them wanted me around before. There's no point in going back. I'll stick to my own little space where I can't hurt them any more than I already have.
