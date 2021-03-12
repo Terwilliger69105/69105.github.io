@@ -25,3 +25,5 @@ Character Creation is now live, see the hyperlink below this text. Maps are half
 **Directory of info for *???***
 
 [Character Creation Resources](/burritoverse/cc)
+
+[Notable NPCs](/burritoverse/npcs)
