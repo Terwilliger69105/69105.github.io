@@ -4,9 +4,6 @@ include: ['_pages']
 
 header_pages:
   - index.md
-  - burritoverse.md
-  - otrpgs.md
-  - projects.md
   - contact.md
 
 footer: 'There are 69,105 leaves here.'
