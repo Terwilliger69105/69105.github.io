@@ -47,4 +47,6 @@ Yeah. I'm not a good player at all, I'm either too quiet or too annoyingly loud 
 
 I hit everything I feel is worth detailing in the list so I'll stop it there. Feel free to check the **Contact** page if you want to do just that, get in contact with me, and I'm sure I'll have more added on here soon enough.
 
+If you want to get in contact with me feel free to click that *Contact* page. My Discord tag and server are in there.
+
 Thanks for stopping by.
