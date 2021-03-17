@@ -45,6 +45,6 @@ Yeah. I'm not a good player at all, I'm either too quiet or too annoyingly loud 
 
 ---
 
-I hit everything in the list so I'll stop it there. Feel free to check the **Contact** page if you want to do just that, get in contact with me, and I'm sure I'll have more added on here soon enough.
+I hit everything I feel is worth detailing in the list so I'll stop it there. Feel free to check the **Contact** page if you want to do just that, get in contact with me, and I'm sure I'll have more added on here soon enough.
 
 Thanks for stopping by.
