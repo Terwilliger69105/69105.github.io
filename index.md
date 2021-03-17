@@ -47,7 +47,7 @@ Yeah. I'm not a good player at all, I'm either too quiet or too annoyingly loud 
 
 *Guns?*
 
-Yeah, guns. I like them kinda? I'm of the view that they need to have a reasonable purpose, for me that means hunting game or being of historical value which I enjoy, so I mostly only handle black poweder firearms as I feel they provide a nice challenge. It's also just a personal protest against semi-automatic hunting which I view as stupidly overkill.
+Yeah, guns. I like them kinda? I'm of the view that they need to have a reasonable purpose, for me that means hunting game or being of historical value which I enjoy, so I mostly only handle black poweder firearms as I feel they provide a nice challenge. It's also just a personal protest against semi-automatic hunting which I view as stupid. You may call me stupid for saying that but I can just call you stupid for needing more than one.
 
 ---
 
